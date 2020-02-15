@@ -22,13 +22,13 @@ mtg.standardEvents(1, function(err, events) {
 
 ## Methods
 
-### standardEvents([page,] callback)
+### formatEvents([format, metdaId, page,] callback)
 
-Fetches a list of standard events. The data is taken from this page http://mtgtop8.com/format?f=ST.
+Fetches a list of a specific format events by metagame. The data is taken from this page http://mtgtop8.com/format?f={format}&meta={metdaId}.
 
 Example
 ``` js
-mtg.standardEvents(function(err, events) {
+mtg.formatEvents('ST', 52, 1, function(err, events) {
 	console.log(events);
 });
 /*
@@ -40,29 +40,6 @@ mtg.standardEvents(function(err, events) {
 			bigstars: 0,
 			date: Tue Aug 05 2014 00:00:00 GMT+0200 (CEST)
 		},
-		...
-	]
-*/
-```
-
-### modernEvents([page,] callback)
-
-Fetches a list of moder events. The data is taken from this page http://mtgtop8.com/format?f=MO.
-
-Example
-``` js
-mtg.modernEvents(function(err, events) {
-	console.log(events);
-});
-/*
-	[
-		{
-			title: 'MTGO Competitive Standard Constructed League',
-	    id: 15369,
-	    stars: 1,
-	    bigstars: 0,
-	    date: 2017-04-25T22:00:00.000Z
-	  },
 		...
 	]
 */
@@ -180,6 +157,25 @@ mtg.deck(7956, 245797, function(err, deck) {
 			...
 		]
 	}
+*/
+```
+
+### metaId(format, callback)
+Fetches the meta id and meta names by format.
+
+Example
+``` js
+mtg.metaId('ST',function(err, meta_ids) {
+	console.log(meta_ids)
+});
+/*
+[
+  { metagame: 'Last 2 Months', id: '52' },
+  { metagame: 'Last 2 Weeks', id: '50' },
+  { metagame: 'Live Tournaments Last 2 Months', id: '46' },
+  { metagame: 'Standard 2019-2020 (M20 to Eldraine)', id: '187' },
+  ....
+]
 */
 ```
 
