@@ -21,8 +21,10 @@
   "dependencies": {
     "axios": "^0.19.2",
     "cheerio": "^0.22.0",
+    "csv-writer": "^1.6.0",
     "moment": "^2.8.1",
-    "qs": "^6.9.4"
+    "qs": "^6.9.4",
+    "sleep": "^6.1.0"
   },
   "devDependencies": {},
   "scripts": {

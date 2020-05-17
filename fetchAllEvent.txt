@@ -1,0 +1,723 @@
+VI ; Live Tournaments Last 6 Months ; 83 ; Vintage Quarantine Bonanza ; 25592 ; Sat May 02 2020
+VI ; Live Tournaments Last 6 Months ; 83 ; Hacks FNM @ Charlotte, NC ; 25407 ; Fri Apr 24 2020
+VI ; Live Tournaments Last 6 Months ; 83 ; God of Vintage @ Hareruya (Japan) ; 25052 ; Sun Mar 22 2020
+VI ; Live Tournaments Last 6 Months ; 83 ; Deal Me In Games ; 24995 ; Sun Mar 08 2020
+VI ; Live Tournaments Last 6 Months ; 83 ; Vintage Rumble II @ Dice City Games ; 25009 ; Sat Mar 07 2020
+VI ; Live Tournaments Last 6 Months ; 83 ; T1T - February @ Florence ; 24850 ; Sun Mar 01 2020
+VI ; Live Tournaments Last 6 Months ; 83 ; Romancing The Stones 18 @ Austin (TX) ; 24810 ; Sat Feb 29 2020
+VI ; Live Tournaments Last 6 Months ; 83 ; Team Serious @ Kidforce Collectibles ; 24927 ; Sat Feb 29 2020
+VI ; Live Tournaments Last 6 Months ; 83 ; #TEC Vintage $1k ; 24984 ; Sat Feb 29 2020
+VI ; Live Tournaments Last 6 Months ; 83 ; Monthly $1k @ Gamestoria (NYC) ; 24866 ; Sun Feb 23 2020
+VI ; All 2011, 2012, 2013 & 2014 decks ; 15 ; MTGO Vintage Daily (#7815939) ; 8815 ; Sun Dec 28 2014
+VI ; All 2011, 2012, 2013 & 2014 decks ; 15 ; MTGO Vintage Daily (#7815899) ; 8828 ; Sat Dec 27 2014
+VI ; All 2011, 2012, 2013 & 2014 decks ; 15 ; MTGO Vintage Daily (#7815873) ; 8809 ; Fri Dec 26 2014
+VI ; All 2011, 2012, 2013 & 2014 decks ; 15 ; MTGO Vintage Daily (#7797360) ; 8780 ; Sun Dec 21 2014
+VI ; All 2011, 2012, 2013 & 2014 decks ; 15 ; LCV 2014 - Finals ; 8836 ; Sat Dec 20 2014
+VI ; All 2011, 2012, 2013 & 2014 decks ; 15 ; MTGO Vintage Champs ; 9037 ; Sat Dec 20 2014
+VI ; All 2011, 2012, 2013 & 2014 decks ; 15 ; MTGO Vintage Daily (#7797280) ; 8760 ; Fri Dec 19 2014
+VI ; All 2011, 2012, 2013 & 2014 decks ; 15 ; MTGO Vintage Daily (#7797234) ; 8759 ; Thu Dec 18 2014
+VI ; All 2011, 2012, 2013 & 2014 decks ; 15 ; MTGO Vintage Daily (#7776510) ; 8761 ; Tue Dec 16 2014
+VI ; All 2011, 2012, 2013 & 2014 decks ; 15 ; MTGO Vintage Daily (#7776406) ; 8721 ; Sat Dec 13 2014
+VI ; Last 2 Months ; 82 ; MTGO Vintage Challenge ; 25684 ; Sun May 10 2020
+VI ; Last 2 Months ; 82 ; MTGO Vintage Challenge ; 25566 ; Sun May 03 2020
+VI ; Last 2 Months ; 82 ; Vintage Quarantine Bonanza ; 25592 ; Sat May 02 2020
+VI ; Last 2 Months ; 82 ; MTGO Vintage Challenge ; 25449 ; Sun Apr 26 2020
+VI ; Last 2 Months ; 82 ; Hacks FNM @ Charlotte, NC ; 25407 ; Fri Apr 24 2020
+VI ; Last 2 Months ; 82 ; MTGO Vintage Challenge ; 25314 ; Sun Apr 19 2020
+VI ; Last 2 Months ; 82 ; Weekly Online 1 ; 25470 ; Sat Apr 18 2020
+VI ; Last 2 Months ; 82 ; MTGO Vintage Challenge ; 25180 ; Sun Apr 12 2020
+VI ; Last 2 Months ; 82 ; MTGO Vintage League ; 25182 ; Sun Apr 12 2020
+VI ; Last 2 Months ; 82 ; MTGO Vintage Challenge ; 25121 ; Sun Apr 05 2020
+VI ; All decks ; 14 ; MTGO Vintage Challenge ; 25684 ; Sun May 10 2020
+VI ; All decks ; 14 ; MTGO Vintage Challenge ; 25566 ; Sun May 03 2020
+VI ; All decks ; 14 ; Vintage Quarantine Bonanza ; 25592 ; Sat May 02 2020
+VI ; All decks ; 14 ; MTGO Vintage Challenge ; 25449 ; Sun Apr 26 2020
+VI ; All decks ; 14 ; Hacks FNM @ Charlotte, NC ; 25407 ; Fri Apr 24 2020
+VI ; All decks ; 14 ; MTGO Vintage Challenge ; 25314 ; Sun Apr 19 2020
+VI ; All decks ; 14 ; Weekly Online 1 ; 25470 ; Sat Apr 18 2020
+VI ; All decks ; 14 ; MTGO Vintage Challenge ; 25180 ; Sun Apr 12 2020
+VI ; All decks ; 14 ; MTGO Vintage League ; 25182 ; Sun Apr 12 2020
+VI ; All decks ; 14 ; MTGO Vintage Challenge ; 25121 ; Sun Apr 05 2020
+VI ; All Major Events decks (50+ players) ; 40 ; MTGO Vintage Challenge ; 25684 ; Sun May 10 2020
+VI ; All Major Events decks (50+ players) ; 40 ; MTGO Vintage Challenge ; 25566 ; Sun May 03 2020
+VI ; All Major Events decks (50+ players) ; 40 ; Vintage Quarantine Bonanza ; 25592 ; Sat May 02 2020
+VI ; All Major Events decks (50+ players) ; 40 ; MTGO Vintage Challenge ; 25449 ; Sun Apr 26 2020
+VI ; All Major Events decks (50+ players) ; 40 ; Hacks FNM @ Charlotte, NC ; 25407 ; Fri Apr 24 2020
+VI ; All Major Events decks (50+ players) ; 40 ; MTGO Vintage Challenge ; 25314 ; Sun Apr 19 2020
+VI ; All Major Events decks (50+ players) ; 40 ; MTGO Vintage Challenge ; 25180 ; Sun Apr 12 2020
+VI ; All Major Events decks (50+ players) ; 40 ; MTGO Vintage Challenge ; 25121 ; Sun Apr 05 2020
+VI ; All Major Events decks (50+ players) ; 40 ; MTGO Vintage Preliminary ; 25031 ; Mon Mar 23 2020
+VI ; All Major Events decks (50+ players) ; 40 ; God of Vintage @ Hareruya (Japan) ; 25052 ; Sun Mar 22 2020
+VI ; All 2015, 2016 & 2017 decks ; 148 ; MTGO Competitive Vintage League ; 18027 ; Sat Dec 30 2017
+VI ; All 2015, 2016 & 2017 decks ; 148 ; MTGO Competitive Vintage League ; 18176 ; Fri Dec 29 2017
+VI ; All 2015, 2016 & 2017 decks ; 148 ; MTGO Competitive Vintage League ; 17960 ; Wed Dec 27 2017
+VI ; All 2015, 2016 & 2017 decks ; 148 ; MTGO Competitive Vintage League ; 17959 ; Tue Dec 26 2017
+VI ; All 2015, 2016 & 2017 decks ; 148 ; TAV Moxing Day Vintage ; 18002 ; Tue Dec 26 2017
+VI ; All 2015, 2016 & 2017 decks ; 148 ; MTGO Competitive Vintage League ; 17958 ; Mon Dec 25 2017
+VI ; All 2015, 2016 & 2017 decks ; 148 ; MTGO Competitive Vintage League ; 17957 ; Sun Dec 24 2017
+VI ; All 2015, 2016 & 2017 decks ; 148 ; MTGO Vintage Challenge ; 18066 ; Sun Dec 24 2017
+VI ; All 2015, 2016 & 2017 decks ; 148 ; MTGO Competitive Vintage League ; 17943 ; Sat Dec 23 2017
+VI ; All 2015, 2016 & 2017 decks ; 148 ; MTGO Competitive Vintage League ; 17929 ; Wed Dec 20 2017
+EDH ; Last Month ; 115 ; Commander League S1 Bronze ; 25697 ; Fri May 15 2020
+EDH ; Last Month ; 115 ; Commander League S1 Gold ; 25698 ; Fri May 15 2020
+EDH ; Last Month ; 115 ; Commander League S1 Silver ; 25699 ; Fri May 15 2020
+EDH ; Last Month ; 115 ; 3rd Xmage Quarantine League @ Leipzig ; 25696 ; Thu May 14 2020
+EDH ; Last Month ; 115 ; Event Cockatrice #5 @ France ; 25695 ; Wed May 13 2020
+EDH ; Last Month ; 115 ; Event Cockatrice #4 @ France ; 25622 ; Fri May 08 2020
+EDH ; Last Month ; 115 ; NanJing Chicken-Pie Cup @ Fanyun Store (NanJing, China) ; 25541 ; Sat May 02 2020
+EDH ; Last Month ; 115 ; 2nd Xmage Quarantine League @ Leipzig ; 25418 ; Sun Apr 26 2020
+EDH ; Last Month ; 115 ; 101st "New Year Cake" Cup @ Shanghai (China) ; 25437 ; Sat Apr 25 2020
+EDH ; Last Month ; 115 ; Combat COVID-19 Boredom FNM #6 @ Online ; 25450 ; Fri Apr 24 2020
+PI ; Last 2 Months ; 193 ; MTGO Pioneer League ; 25694 ; Thu May 14 2020
+PI ; Last 2 Months ; 193 ; MTGO Pioneer Preliminary ; 25702 ; Wed May 13 2020
+PI ; Last 2 Months ; 193 ; MTGO Pioneer League ; 25670 ; Mon May 11 2020
+PI ; Last 2 Months ; 193 ; MTGO Pioneer Challenge ; 25686 ; Mon May 11 2020
+PI ; Last 2 Months ; 193 ; MTGO Pioneer League ; 25611 ; Thu May 07 2020
+PI ; Last 2 Months ; 193 ; MTGO Pioneer Super Qualifier ; 25623 ; Thu May 07 2020
+PI ; Last 2 Months ; 193 ; MTGO Pioneer League ; 25568 ; Mon May 04 2020
+PI ; Last 2 Months ; 193 ; MTGO Pioneer Challenge ; 25570 ; Mon May 04 2020
+PI ; Last 2 Months ; 193 ; Lotus Box League Season 1: 1K @ Team Lotus Box ; 25582 ; Sun May 03 2020
+PI ; Last 2 Months ; 193 ; MTGO Pioneer League ; 25496 ; Thu Apr 30 2020
+EDH ; Last 12 Months ; 209 ; Commander League S1 Bronze ; 25697 ; Fri May 15 2020
+EDH ; Last 12 Months ; 209 ; Commander League S1 Gold ; 25698 ; Fri May 15 2020
+EDH ; Last 12 Months ; 209 ; Commander League S1 Silver ; 25699 ; Fri May 15 2020
+EDH ; Last 12 Months ; 209 ; 3rd Xmage Quarantine League @ Leipzig ; 25696 ; Thu May 14 2020
+EDH ; Last 12 Months ; 209 ; Event Cockatrice #5 @ France ; 25695 ; Wed May 13 2020
+EDH ; Last 12 Months ; 209 ; Event Cockatrice #4 @ France ; 25622 ; Fri May 08 2020
+EDH ; Last 12 Months ; 209 ; NanJing Chicken-Pie Cup @ Fanyun Store (NanJing, China) ; 25541 ; Sat May 02 2020
+EDH ; Last 12 Months ; 209 ; 2nd Xmage Quarantine League @ Leipzig ; 25418 ; Sun Apr 26 2020
+EDH ; Last 12 Months ; 209 ; 101st "New Year Cake" Cup @ Shanghai (China) ; 25437 ; Sat Apr 25 2020
+EDH ; Last 12 Months ; 209 ; Combat COVID-19 Boredom FNM #6 @ Online ; 25450 ; Fri Apr 24 2020
+VI ; All 2018 & 2019 Decks ; 167 ; MTGO Vintage Preliminary ; 24161 ; Mon Dec 30 2019
+VI ; All 2018 & 2019 Decks ; 167 ; MTGO Vintage Challenge ; 24152 ; Sun Dec 29 2019
+VI ; All 2018 & 2019 Decks ; 167 ; Emperor of Vintage Tournament 2nd Season @ Hareruya (Japan) ; 24162 ; Sun Dec 29 2019
+VI ; All 2018 & 2019 Decks ; 167 ; Eternal Weekend  @ Magic Bazar (France) ; 24120 ; Sun Dec 22 2019
+VI ; All 2018 & 2019 Decks ; 167 ; MTGO Vintage Preliminary ; 24087 ; Mon Dec 16 2019
+VI ; All 2018 & 2019 Decks ; 167 ; MTGO Vintage League ; 24036 ; Sun Dec 15 2019
+VI ; All 2018 & 2019 Decks ; 167 ; Monthly Unsanctioned - December @ Knight Ware ; 24164 ; Sun Dec 15 2019
+VI ; All 2018 & 2019 Decks ; 167 ; Vintage Chile XV - Ogrodnik Palace 12th ; 24163 ; Sat Dec 14 2019
+VI ; All 2018 & 2019 Decks ; 167 ; MTGO Vintage Format Playoff ; 24013 ; Tue Dec 10 2019
+VI ; All 2018 & 2019 Decks ; 167 ; MTGO Vintage League ; 24023 ; Tue Dec 10 2019
+PI ; All 2020 Decks ; 202 ; MTGO Pioneer League ; 25694 ; Thu May 14 2020
+PI ; All 2020 Decks ; 202 ; MTGO Pioneer Preliminary ; 25702 ; Wed May 13 2020
+PI ; All 2020 Decks ; 202 ; MTGO Pioneer League ; 25670 ; Mon May 11 2020
+PI ; All 2020 Decks ; 202 ; MTGO Pioneer Challenge ; 25686 ; Mon May 11 2020
+PI ; All 2020 Decks ; 202 ; MTGO Pioneer League ; 25611 ; Thu May 07 2020
+PI ; All 2020 Decks ; 202 ; MTGO Pioneer Super Qualifier ; 25623 ; Thu May 07 2020
+PI ; All 2020 Decks ; 202 ; MTGO Pioneer League ; 25568 ; Mon May 04 2020
+PI ; All 2020 Decks ; 202 ; MTGO Pioneer Challenge ; 25570 ; Mon May 04 2020
+PI ; All 2020 Decks ; 202 ; Lotus Box League Season 1: 1K @ Team Lotus Box ; 25582 ; Sun May 03 2020
+PI ; All 2020 Decks ; 202 ; MTGO Pioneer League ; 25496 ; Thu Apr 30 2020
+EDH ; All 2015 Decks ; 99 ; Snitch' B-day the end of the season (Moscow, Russia) ; 11208 ; Sun Dec 27 2015
+EDH ; All 2015 Decks ; 99 ; Bohemia DC Tournament (Hradec Kr�lov�) ; 11226 ; Sun Dec 27 2015
+EDH ; All 2015 Decks ; 99 ; 2015 Christmas Party (Philippines) ; 11235 ; Sun Dec 27 2015
+EDH ; All 2015 Decks ; 99 ; FFH Holiday Tournament Series ; 11145 ; Sun Dec 20 2015
+EDH ; All 2015 Decks ; 99 ; Liga Generalov Oseni 2.0 (Moscow, Russia) ; 11149 ; Sun Dec 20 2015
+EDH ; All 2015 Decks ; 99 ; Christmas Tournament Gobl'Ain (Ain, France) ; 11301 ; Sun Dec 20 2015
+EDH ; All 2015 Decks ; 99 ; Officious Dutch Duel Commander Nationals ; 11141 ; Sat Dec 19 2015
+EDH ; All 2015 Decks ; 99 ; Link Super  Challenge 9 EDH (N�mes) ; 11207 ; Sat Dec 19 2015
+EDH ; All 2015 Decks ; 99 ; Shanghai Commander Master ; 11104 ; Sun Dec 13 2015
+EDH ; All 2015 Decks ; 99 ; Third Moscow Open (Moscow, Russia) ; 11118 ; Sun Dec 13 2015
+PI ; All 2019 Decks ; 201 ; MTGO Pioneer League ; 24157 ; Mon Dec 30 2019
+PI ; All 2019 Decks ; 201 ; Win a DCI Monastery Mentor Rumble @ Hareruya (Japan) ; 24170 ; Mon Dec 30 2019
+PI ; All 2019 Decks ; 201 ; Reclaim the Throne @ Hareruya (Japan) ; 24213 ; Mon Dec 30 2019
+PI ; All 2019 Decks ; 201 ; 3rd Anniversary - Full power Team Event @ Hareruya (Osaka, Japan) ; 24248 ; Mon Dec 30 2019
+PI ; All 2019 Decks ; 201 ; MTGO Pioneer Preliminary ; 24148 ; Sat Dec 28 2019
+PI ; All 2019 Decks ; 201 ; Hunt the Elk @ Free Soul (Ferrara, Italy) ; 24153 ; Sat Dec 28 2019
+PI ; All 2019 Decks ; 201 ; SML Open 5 @ W.T.F (Shanghai, China) ; 24154 ; Sat Dec 28 2019
+PI ; All 2019 Decks ; 201 ; God of Pioneer Trial @ Hareruya (Japan) ; 24160 ; Sat Dec 28 2019
+PI ; All 2019 Decks ; 201 ; MKM Trial @ Bertils Spielwiese (Dillingen a.d. Donau,Germany) ; 24168 ; Sat Dec 28 2019
+PI ; All 2019 Decks ; 201 ; MTGO Pioneer Preliminary ; 24143 ; Fri Dec 27 2019
+VI ; Last 4 Months ; 71 ; MTGO Vintage Challenge ; 25684 ; Sun May 10 2020
+VI ; Last 4 Months ; 71 ; MTGO Vintage Challenge ; 25566 ; Sun May 03 2020
+VI ; Last 4 Months ; 71 ; Vintage Quarantine Bonanza ; 25592 ; Sat May 02 2020
+VI ; Last 4 Months ; 71 ; MTGO Vintage Challenge ; 25449 ; Sun Apr 26 2020
+VI ; Last 4 Months ; 71 ; Hacks FNM @ Charlotte, NC ; 25407 ; Fri Apr 24 2020
+VI ; Last 4 Months ; 71 ; MTGO Vintage Challenge ; 25314 ; Sun Apr 19 2020
+VI ; Last 4 Months ; 71 ; Weekly Online 1 ; 25470 ; Sat Apr 18 2020
+VI ; Last 4 Months ; 71 ; MTGO Vintage Challenge ; 25180 ; Sun Apr 12 2020
+VI ; Last 4 Months ; 71 ; MTGO Vintage League ; 25182 ; Sun Apr 12 2020
+VI ; Last 4 Months ; 71 ; MTGO Vintage Challenge ; 25121 ; Sun Apr 05 2020
+EDH ; Last 3 Months ; 121 ; Commander League S1 Bronze ; 25697 ; Fri May 15 2020
+EDH ; Last 3 Months ; 121 ; Commander League S1 Gold ; 25698 ; Fri May 15 2020
+EDH ; Last 3 Months ; 121 ; Commander League S1 Silver ; 25699 ; Fri May 15 2020
+EDH ; Last 3 Months ; 121 ; 3rd Xmage Quarantine League @ Leipzig ; 25696 ; Thu May 14 2020
+EDH ; Last 3 Months ; 121 ; Event Cockatrice #5 @ France ; 25695 ; Wed May 13 2020
+EDH ; Last 3 Months ; 121 ; Event Cockatrice #4 @ France ; 25622 ; Fri May 08 2020
+EDH ; Last 3 Months ; 121 ; NanJing Chicken-Pie Cup @ Fanyun Store (NanJing, China) ; 25541 ; Sat May 02 2020
+EDH ; Last 3 Months ; 121 ; 2nd Xmage Quarantine League @ Leipzig ; 25418 ; Sun Apr 26 2020
+EDH ; Last 3 Months ; 121 ; 101st "New Year Cake" Cup @ Shanghai (China) ; 25437 ; Sat Apr 25 2020
+EDH ; Last 3 Months ; 121 ; Combat COVID-19 Boredom FNM #6 @ Online ; 25450 ; Fri Apr 24 2020
+PI ; All Pioneer Decks ; 191 ; MTGO Pioneer League ; 25694 ; Thu May 14 2020
+PI ; All Pioneer Decks ; 191 ; MTGO Pioneer Preliminary ; 25702 ; Wed May 13 2020
+PI ; All Pioneer Decks ; 191 ; MTGO Pioneer League ; 25670 ; Mon May 11 2020
+PI ; All Pioneer Decks ; 191 ; MTGO Pioneer Challenge ; 25686 ; Mon May 11 2020
+PI ; All Pioneer Decks ; 191 ; MTGO Pioneer League ; 25611 ; Thu May 07 2020
+PI ; All Pioneer Decks ; 191 ; MTGO Pioneer Super Qualifier ; 25623 ; Thu May 07 2020
+PI ; All Pioneer Decks ; 191 ; MTGO Pioneer League ; 25568 ; Mon May 04 2020
+PI ; All Pioneer Decks ; 191 ; MTGO Pioneer Challenge ; 25570 ; Mon May 04 2020
+PI ; All Pioneer Decks ; 191 ; Lotus Box League Season 1: 1K @ Team Lotus Box ; 25582 ; Sun May 03 2020
+PI ; All Pioneer Decks ; 191 ; MTGO Pioneer League ; 25496 ; Thu Apr 30 2020
+EDH ; All 2016 Decks ; 122 ; Tournoi d'hiver (FJEP Saint-Venant) ; 14362 ; Fri Dec 30 2016
+EDH ; All 2016 Decks ; 122 ; La Bulle � Jeux (Nice, France) ; 14327 ; Thu Dec 22 2016
+EDH ; All 2016 Decks ; 122 ; Torneo natalizio Duel French ; 14343 ; Thu Dec 22 2016
+EDH ; All 2016 Decks ; 122 ; Christmas Tournament Gobl'Ain (Ain, France) ; 14394 ; Sun Dec 18 2016
+EDH ; All 2016 Decks ; 122 ; DC Llevelwin ; 14314 ; Sat Dec 17 2016
+EDH ; All 2016 Decks ; 122 ; Liga DC Comando Games ; 14321 ; Sat Dec 17 2016
+EDH ; All 2016 Decks ; 122 ; Jsst (Nice) Tournoi Mensuel ; 14276 ; Fri Dec 16 2016
+EDH ; All 2016 Decks ; 122 ; Duel Commander les Gobs ; 14313 ; Thu Dec 15 2016
+EDH ; All 2016 Decks ; 122 ; Duel Commander Philippines 2016 Year End Tournament ; 14225 ; Sun Dec 11 2016
+EDH ; All 2016 Decks ; 122 ; ZAP Palaiseau Decembre ; 14242 ; Sun Dec 11 2016
+EDH ; Last Notables Events (4 Months) ; 130 ; Spring Russia Online#1 ; 25413 ; Wed Apr 22 2020
+EDH ; Last Notables Events (4 Months) ; 130 ; Tournoi Cockatrice #3 @ France ; 25436 ; Wed Apr 22 2020
+EDH ; Last Notables Events (4 Months) ; 130 ; DCM April 2020 @ XMage ; 25474 ; Sun Apr 05 2020
+EDH ; Last Notables Events (4 Months) ; 130 ; Combat COVID-19 Boredom FNM #2 @ Online ; 25068 ; Fri Mar 27 2020
+EDH ; Last Notables Events (4 Months) ; 130 ; Trial Master Zap @ La table des jeux (Quimper) ; 25095 ; Sun Mar 08 2020
+EDH ; Last Notables Events (4 Months) ; 130 ; 12th prague duel commander @ Prague (Czech Republic) ; 24930 ; Sat Mar 07 2020
+EDH ; Last Notables Events (4 Months) ; 130 ; FNM Hiveworld @ Cologne (Germany) ; 24883 ; Fri Mar 06 2020
+EDH ; Last Notables Events (4 Months) ; 130 ; Nexus Duel Commander - #1 @ Portet sur Garonne (France) ; 24875 ; Sun Mar 01 2020
+EDH ; Last Notables Events (4 Months) ; 130 ; DCT @ GameZone (Lima, Peru) ; 24825 ; Sat Feb 29 2020
+EDH ; Last Notables Events (4 Months) ; 130 ; Battle for Duals @ Tapped games (Marikina City, Philippines) ; 24856 ; Sat Feb 29 2020
+PI ; Last 2 Weeks ; 194 ; MTGO Pioneer League ; 25694 ; Thu May 14 2020
+PI ; Last 2 Weeks ; 194 ; MTGO Pioneer Preliminary ; 25702 ; Wed May 13 2020
+PI ; Last 2 Weeks ; 194 ; MTGO Pioneer League ; 25670 ; Mon May 11 2020
+PI ; Last 2 Weeks ; 194 ; MTGO Pioneer Challenge ; 25686 ; Mon May 11 2020
+PI ; Last 2 Weeks ; 194 ; MTGO Pioneer League ; 25611 ; Thu May 07 2020
+PI ; Last 2 Weeks ; 194 ; MTGO Pioneer Super Qualifier ; 25623 ; Thu May 07 2020
+PI ; Last 2 Weeks ; 194 ; MTGO Pioneer League ; 25568 ; Mon May 04 2020
+PI ; Last 2 Weeks ; 194 ; MTGO Pioneer Challenge ; 25570 ; Mon May 04 2020
+EDH ; All 2017 Decks ; 146 ; Duel Commander Philippines 2017 Year End Tournament ; 17973 ; Sun Dec 17 2017
+EDH ; All 2017 Decks ; 146 ; FNM Hiveworld Cologne ; 17855 ; Fri Dec 15 2017
+EDH ; All 2017 Decks ; 146 ; Tournoi de No�l - Without top 1+ % (St Nazaire, France) ; 17941 ; Fri Dec 15 2017
+EDH ; All 2017 Decks ; 146 ; Magic Player - Monthly Duel ; 17814 ; Sun Dec 10 2017
+EDH ; All 2017 Decks ; 146 ; Carta'Jeu Monthly DC ; 17828 ; Sun Dec 10 2017
+EDH ; All 2017 Decks ; 146 ; PaPi Cup 2.0 - Baguio Duel Commander Invitational ; 17806 ; Sat Dec 09 2017
+EDH ; All 2017 Decks ; 146 ; FNM Hiveworld Cologne ; 17813 ; Fri Dec 08 2017
+EDH ; All 2017 Decks ; 146 ; Tournoi des ZAPS (D�cembre) ; 17776 ; Sun Dec 03 2017
+EDH ; All 2017 Decks ; 146 ; DC League Season 2 ; 17723 ; Sat Dec 02 2017
+EDH ; All 2017 Decks ; 146 ; Bohemia MTG Commanders Hradec Kralove ; 17743 ; Sat Dec 02 2017
+EDH ; All 2014 Decks ; 129 ; SuperGames INC's Winter French EDH (Atlanta, GA) ; 8851 ; Mon Dec 29 2014
+EDH ; All 2014 Decks ; 129 ; Coupe Commander Nord (Lille) ; 9044 ; Sun Dec 28 2014
+EDH ; All 2014 Decks ; 129 ; MKM Commander Tournament (Hradec Kralove, Czech republic) ; 8852 ; Sat Dec 27 2014
+EDH ; All 2014 Decks ; 129 ; 2014 Christmas Party (Philippines) ; 8863 ; Sat Dec 27 2014
+EDH ; All 2014 Decks ; 129 ; War of Titans by Labirinto #2 (Bollate, Italy) ; 8704 ; Sat Dec 13 2014
+EDH ; All 2014 Decks ; 129 ; Southern Bivouac (Philippines) ; 8813 ; Sat Dec 13 2014
+EDH ; All 2014 Decks ; 129 ; Southern Bivouac - Sudden Death (Philippines) ; 8814 ; Sat Dec 13 2014
+EDH ; All 2014 Decks ; 129 ; Second Commander Open (Moscow, Russia) ; 8702 ; Sun Dec 07 2014
+EDH ; All 2014 Decks ; 129 ; Commander (Libourne) ; 8666 ; Sun Nov 30 2014
+EDH ; All 2014 Decks ; 129 ; 16th "New Year Cake" Cup (Shanghai) ; 8673 ; Sun Nov 30 2014
+EDH ; All 2019 Decks ; 181 ; DCM Dec 2019 @ XMage ; 24151 ; Sun Dec 29 2019
+EDH ; All 2019 Decks ; 181 ; Dankesch�n Event @ Hiveworld (Cologne) ; 24173 ; Sat Dec 28 2019
+EDH ; All 2019 Decks ; 181 ; 95th "New Year Cake" Cup @ Shanghai (China) ; 24191 ; Sat Dec 28 2019
+EDH ; All 2019 Decks ; 181 ; FNM  @ Hiveworld Cologne ; 24197 ; Fri Dec 27 2019
+EDH ; All 2019 Decks ; 181 ; League 10 finals @ Volgo Games ; 24167 ; Sun Dec 22 2019
+EDH ; All 2019 Decks ; 181 ; Saturday Duel Commander @ Fulcrum ESports (Philippines) ; 24103 ; Sat Dec 21 2019
+EDH ; All 2019 Decks ; 181 ; FNM Hiveworld @ Cologne (Germany) ; 24119 ; Fri Dec 20 2019
+EDH ; All 2019 Decks ; 181 ; Card Battle 2 @ Orsay (France) ; 24040 ; Sun Dec 15 2019
+EDH ; All 2019 Decks ; 181 ; EDH de No�l Gobl'Ain @ Amb�rieu-en-Bugey (France) ; 24094 ; Sun Dec 15 2019
+EDH ; All 2019 Decks ; 181 ; Nexus Duel Commander de Noel @ Muret (France) ; 24098 ; Sun Dec 15 2019
+EDH ; Major Events ; 196 ; Spring Russia Online#1 ; 25413 ; Wed Apr 22 2020
+EDH ; Major Events ; 196 ; 12th prague duel commander @ Prague (Czech Republic) ; 24930 ; Sat Mar 07 2020
+EDH ; Major Events ; 196 ; Nexus Duel Commander - #1 @ Portet sur Garonne (France) ; 24875 ; Sun Mar 01 2020
+EDH ; Major Events ; 196 ; [DC] Saint-Nazaire 2020 @ Saint-Nazaire ; 24855 ; Sun Feb 23 2020
+EDH ; Major Events ; 196 ; [DDL] 3rd German DC Event @ Darmstadt, Germany ; 24661 ; Sun Feb 16 2020
+EDH ; Major Events ; 196 ; Zap F�vrier @ Palaiseau ; 24699 ; Sun Feb 16 2020
+EDH ; Major Events ; 196 ; Winter Commander @ Biblioteka (Volgograd, Russia) ; 24509 ; Sat Feb 01 2020
+EDH ; Major Events ; 196 ; Zap Janvier @ Palaiseau (France) ; 24342 ; Sun Jan 12 2020
+EDH ; Major Events ; 196 ; Year-Starter Special @ Roll Play Game Lounge (Mandaluyong, Philippines) ; 24217 ; Sat Jan 04 2020
+EDH ; Major Events ; 196 ; ZAP Monthly @ Palaiseau  ; 23983 ; Sun Dec 08 2019
+EDH ; All 2018 Decks ; 166 ; Volgograd DC daily 7 @ Volgo Games ; 20858 ; Fri Dec 28 2018
+EDH ; All 2018 Decks ; 166 ; Volgograd DC daily 6 @ Volgo Games ; 20812 ; Sun Dec 23 2018
+EDH ; All 2018 Decks ; 166 ; Trial Trole de Zap @ Ch�teauroux ; 20823 ; Sat Dec 22 2018
+EDH ; All 2018 Decks ; 166 ; Volgograd DC daily 5 @ Volgo Games ; 20810 ; Fri Dec 21 2018
+EDH ; All 2018 Decks ; 166 ; Carta'Jeu DC - FNM DEC @ Lyon Carta'Jeu ; 20857 ; Fri Dec 21 2018
+EDH ; All 2018 Decks ; 166 ; DCM Dec 2018 ; 20793 ; Wed Dec 19 2018
+EDH ; All 2018 Decks ; 166 ; Zaps @ Palaiseau ; 20798 ; Sun Dec 16 2018
+EDH ; All 2018 Decks ; 166 ; Trial ZAP janvier (HA) @ Amiens ; 20770 ; Sat Dec 15 2018
+EDH ; All 2018 Decks ; 166 ; EDH No�l Gob'l'Ain  @ Amb�rieu-en-Bugey ; 20792 ; Sat Dec 15 2018
+EDH ; All 2018 Decks ; 166 ; Snow-Covered Cup 2018 @Moscow ; 20733 ; Sun Dec 09 2018
+EDH ; All Commander decks ; 56 ; Commander League S1 Bronze ; 25697 ; Fri May 15 2020
+EDH ; All Commander decks ; 56 ; Commander League S1 Gold ; 25698 ; Fri May 15 2020
+EDH ; All Commander decks ; 56 ; Commander League S1 Silver ; 25699 ; Fri May 15 2020
+EDH ; All Commander decks ; 56 ; 3rd Xmage Quarantine League @ Leipzig ; 25696 ; Thu May 14 2020
+EDH ; All Commander decks ; 56 ; Event Cockatrice #5 @ France ; 25695 ; Wed May 13 2020
+EDH ; All Commander decks ; 56 ; Event Cockatrice #4 @ France ; 25622 ; Fri May 08 2020
+EDH ; All Commander decks ; 56 ; NanJing Chicken-Pie Cup @ Fanyun Store (NanJing, China) ; 25541 ; Sat May 02 2020
+EDH ; All Commander decks ; 56 ; 2nd Xmage Quarantine League @ Leipzig ; 25418 ; Sun Apr 26 2020
+EDH ; All Commander decks ; 56 ; 101st "New Year Cake" Cup @ Shanghai (China) ; 25437 ; Sat Apr 25 2020
+EDH ; All Commander decks ; 56 ; Combat COVID-19 Boredom FNM #6 @ Online ; 25450 ; Fri Apr 24 2020
+EDH ; All 2020 Decks ; 198 ; Commander League S1 Bronze ; 25697 ; Fri May 15 2020
+EDH ; All 2020 Decks ; 198 ; Commander League S1 Gold ; 25698 ; Fri May 15 2020
+EDH ; All 2020 Decks ; 198 ; Commander League S1 Silver ; 25699 ; Fri May 15 2020
+EDH ; All 2020 Decks ; 198 ; 3rd Xmage Quarantine League @ Leipzig ; 25696 ; Thu May 14 2020
+EDH ; All 2020 Decks ; 198 ; Event Cockatrice #5 @ France ; 25695 ; Wed May 13 2020
+EDH ; All 2020 Decks ; 198 ; Event Cockatrice #4 @ France ; 25622 ; Fri May 08 2020
+EDH ; All 2020 Decks ; 198 ; NanJing Chicken-Pie Cup @ Fanyun Store (NanJing, China) ; 25541 ; Sat May 02 2020
+EDH ; All 2020 Decks ; 198 ; 2nd Xmage Quarantine League @ Leipzig ; 25418 ; Sun Apr 26 2020
+EDH ; All 2020 Decks ; 198 ; 101st "New Year Cake" Cup @ Shanghai (China) ; 25437 ; Sat Apr 25 2020
+EDH ; All 2020 Decks ; 198 ; Combat COVID-19 Boredom FNM #6 @ Online ; 25450 ; Fri Apr 24 2020
+ST ; Standard 2017-2018 (Kaladesh to M19) ; 161 ; MTGO Competitive Standard League ; 20182 ; Thu Sep 27 2018
+ST ; Standard 2017-2018 (Kaladesh to M19) ; 161 ; MTGO Competitive Standard League ; 20148 ; Mon Sep 24 2018
+ST ; Standard 2017-2018 (Kaladesh to M19) ; 161 ; MTGO Standard MOCS ; 20172 ; Mon Sep 24 2018
+ST ; Standard 2017-2018 (Kaladesh to M19) ; 161 ; Worlds 2018 (Las Vegas) ; 20145 ; Sun Sep 23 2018
+ST ; Standard 2017-2018 (Kaladesh to M19) ; 161 ; Win-a-booster Box @ carta'jeu (Lyon, France) ; 20183 ; Sun Sep 23 2018
+ST ; Standard 2017-2018 (Kaladesh to M19) ; 161 ; MTGO Competitive Standard League ; 20122 ; Mon Sep 17 2018
+ST ; Standard 2017-2018 (Kaladesh to M19) ; 161 ; MTGO Standard PTQ ; 20103 ; Sun Sep 16 2018
+ST ; Standard 2017-2018 (Kaladesh to M19) ; 161 ; Store Championship M19 @ Back to Games (Abu Dhabi) ; 20121 ; Fri Sep 14 2018
+ST ; Standard 2017-2018 (Kaladesh to M19) ; 161 ; MTGO Competitive Standard League ; 20071 ; Thu Sep 13 2018
+ST ; Standard 2017-2018 (Kaladesh to M19) ; 161 ; MTGO Standard Regional PTQ ; 20054 ; Mon Sep 10 2018
+LE ; Last 2 weeks ; 34 ; SSL1L - Discord @ Cockatrice ; 25612 ; Wed May 06 2020
+LE ; Last 2 weeks ; 34 ; Weekly game @ Tongmeng (Shanghai, China) ; 25683 ; Tue May 05 2020
+LE ; Last 2 weeks ; 34 ; MTGO Legacy Challenge ; 25543 ; Sun May 03 2020
+LE ; Last 2 weeks ; 34 ; 2� Legacy na Quarentena @ Brasil ; 25665 ; Sun May 03 2020
+ST ; Large Events Last 2 Months ; 46 ; LatAm Magic Series @ Bazar Gaming ; 25662 ; Sun May 10 2020
+ST ; Large Events Last 2 Months ; 46 ; MTGO Standard Challenge ; 25667 ; Sun May 10 2020
+ST ; Large Events Last 2 Months ; 46 ; Arena Open #1 @ NRG Series ; 25650 ; Sat May 09 2020
+ST ; Large Events Last 2 Months ; 46 ; Magic Arena Judge League #1 @ Judge Academy ; 25653 ; Sat May 09 2020
+ST ; Large Events Last 2 Months ; 46 ; MagicFest Online - Season 2 Finals ; 25676 ; Sat May 09 2020
+ST ; Large Events Last 2 Months ; 46 ; MTGO Standard Preliminary ; 25620 ; Fri May 08 2020
+ST ; Large Events Last 2 Months ; 46 ; Finals @ Makorito (Arena) ; 25637 ; Fri May 08 2020
+ST ; Large Events Last 2 Months ; 46 ; Friday 1st Qualifier for MagicFest Online ; 25672 ; Fri May 08 2020
+ST ; Large Events Last 2 Months ; 46 ; Friday 2nd Qualifier for MagicFest Online ; 25673 ; Fri May 08 2020
+ST ; Large Events Last 2 Months ; 46 ; Friday 3rd Qualifier for MagicFest Online ; 25674 ; Fri May 08 2020
+MO ; Live Tournaments Last 2 Months ; 57 ; Modern_Fr_9 @ Discord ; 25509 ; Sat Apr 25 2020
+MO ; Live Tournaments Last 2 Months ; 57 ; Modern FR Discord tournament 8 @ Cockatrice ; 25332 ; Tue Apr 14 2020
+MO ; Live Tournaments Last 2 Months ; 57 ; NRG Series MTGO Invitational ; 25090 ; Tue Mar 31 2020
+MO ; Live Tournaments Last 2 Months ; 57 ; Win a Snapcaster Mage @ Hareruya (Japan) ; 25021 ; Sat Mar 21 2020
+MO ; Live Tournaments Last 2 Months ; 57 ; Team Trio Cup @ Hareruya (Japan) ; 25057 ; Sat Mar 21 2020
+MO ; Live Tournaments Last 2 Months ; 57 ; Equinox Team Event @ Hareruya (Japan) ; 25115 ; Fri Mar 20 2020
+ST ; History - All Grand Prix ; 96 ; Grand Prix Lyon ; 24893 ; Sat Mar 07 2020
+ST ; History - All Grand Prix ; 96 ; Grand Prix Oklahoma City ; 24054 ; Sat Dec 14 2019
+ST ; History - All Grand Prix ; 96 ; Grand Prix Sao Paulo ; 23727 ; Fri Nov 15 2019
+ST ; History - All Grand Prix ; 96 ; Grand Prix Richmond 2019 ; 23643 ; Sun Nov 10 2019
+ST ; History - All Grand Prix ; 96 ; Grand Prix Denver 2019 ; 22539 ; Sat Jul 20 2019
+ST ; History - All Grand Prix ; 96 ; Grand Prix Taipei 2019 ; 22200 ; Sun Jun 09 2019
+ST ; History - All Grand Prix ; 96 ; Grand Prix Kansas City 2019 ; 22155 ; Sun Jun 02 2019
+ST ; History - All Grand Prix ; 96 ; Grand Prix Kyoto 2019 ; 21454 ; Sat Mar 23 2019
+ST ; History - All Grand Prix ; 96 ; Grand Prix Shizuoka ; 20673 ; Sat Dec 01 2018
+ST ; History - All Grand Prix ; 96 ; Grand Prix Providence 2018 ; 19875 ; Sun Aug 19 2018
+ST ; Last 2 Weeks ; 50 ; Secret Lair Ultimate Edition FNM @ Game Corps ; 25720 ; Sat May 16 2020
+ST ; Last 2 Weeks ; 50 ; FNM @ The Monkey Planet (Arena) ; 25722 ; Sat May 16 2020
+ST ; Last 2 Weeks ; 50 ; 500 Guaranteed Tournament @ Chimera Gaming (Arena) ; 25725 ; Sat May 16 2020
+ST ; Last 2 Weeks ; 50 ; Weekly Showdown @ The Lotus Market ; 25726 ; Sat May 16 2020
+ST ; Last 2 Weeks ; 50 ; Ikoria Box Tournament @ Adventures in Comics and Games ; 25708 ; Fri May 15 2020
+ST ; Last 2 Weeks ; 50 ; Weekly Trial @ The Mythic Society ; 25721 ; Fri May 15 2020
+ST ; Last 2 Weeks ; 50 ; FNM league week 2 @ Genesis Comics and Gaming (Arena) ; 25727 ; Fri May 15 2020
+ST ; Last 2 Weeks ; 50 ; Event @ Win Condition Games ; 25690 ; Thu May 14 2020
+ST ; Last 2 Weeks ; 50 ; MTG Arena For FUN ! @ Draagoons Hobby Shop ; 25705 ; Thu May 14 2020
+ST ; Last 2 Weeks ; 50 ; LATAM Magic Series Last Chance Qualifier @ Dima Game ; 25706 ; Thu May 14 2020
+ST ; Standard 2016-2017 (Battle for Zendikar Block - Amonkhet Block) ; 128 ; MTGO Competitive Standard League ; 17023 ; Thu Sep 28 2017
+ST ; Standard 2016-2017 (Battle for Zendikar Block - Amonkhet Block) ; 128 ; MTGO Competitive Standard League ; 16987 ; Mon Sep 25 2017
+ST ; Standard 2016-2017 (Battle for Zendikar Block - Amonkhet Block) ; 128 ; MTGO Competitive Standard League ; 17039 ; Sun Sep 24 2017
+ST ; Standard 2016-2017 (Battle for Zendikar Block - Amonkhet Block) ; 128 ; MTGO Competitive Standard League ; 17009 ; Sat Sep 23 2017
+ST ; Standard 2016-2017 (Battle for Zendikar Block - Amonkhet Block) ; 128 ; MTGO Competitive Standard League ; 17038 ; Fri Sep 22 2017
+ST ; Standard 2016-2017 (Battle for Zendikar Block - Amonkhet Block) ; 128 ; MTGO Competitive Standard League ; 16973 ; Thu Sep 21 2017
+ST ; Standard 2016-2017 (Battle for Zendikar Block - Amonkhet Block) ; 128 ; MTGO Competitive Standard League ; 16930 ; Wed Sep 20 2017
+ST ; Standard 2016-2017 (Battle for Zendikar Block - Amonkhet Block) ; 128 ; MTGO Competitive Standard League ; 17008 ; Mon Sep 18 2017
+ST ; Standard 2016-2017 (Battle for Zendikar Block - Amonkhet Block) ; 128 ; MTGO Competitive Standard League ; 16891 ; Sun Sep 17 2017
+ST ; Standard 2016-2017 (Battle for Zendikar Block - Amonkhet Block) ; 128 ; National 2017 - Venezuela ; 16938 ; Sun Sep 17 2017
+ST ; Last 2 Months ; 52 ; Secret Lair Ultimate Edition FNM @ Game Corps ; 25720 ; Sat May 16 2020
+ST ; Last 2 Months ; 52 ; FNM @ The Monkey Planet (Arena) ; 25722 ; Sat May 16 2020
+ST ; Last 2 Months ; 52 ; 500 Guaranteed Tournament @ Chimera Gaming (Arena) ; 25725 ; Sat May 16 2020
+ST ; Last 2 Months ; 52 ; Weekly Showdown @ The Lotus Market ; 25726 ; Sat May 16 2020
+ST ; Last 2 Months ; 52 ; Ikoria Box Tournament @ Adventures in Comics and Games ; 25708 ; Fri May 15 2020
+ST ; Last 2 Months ; 52 ; Weekly Trial @ The Mythic Society ; 25721 ; Fri May 15 2020
+ST ; Last 2 Months ; 52 ; FNM league week 2 @ Genesis Comics and Gaming (Arena) ; 25727 ; Fri May 15 2020
+ST ; Last 2 Months ; 52 ; Event @ Win Condition Games ; 25690 ; Thu May 14 2020
+ST ; Last 2 Months ; 52 ; MTG Arena For FUN ! @ Draagoons Hobby Shop ; 25705 ; Thu May 14 2020
+ST ; Last 2 Months ; 52 ; LATAM Magic Series Last Chance Qualifier @ Dima Game ; 25706 ; Thu May 14 2020
+ST ; Standard 2010-2011 (Zendikar Block - Scars Block) ; 45 ; Magic-League Standard Trial ; 2051 ; Tue Sep 27 2011
+ST ; Standard 2010-2011 (Zendikar Block - Scars Block) ; 45 ; Magic-League Standard Master ; 2052 ; Sun Sep 25 2011
+ST ; Standard 2010-2011 (Zendikar Block - Scars Block) ; 45 ; Magic-League Standard Trial ; 2050 ; Fri Sep 23 2011
+ST ; Standard 2010-2011 (Zendikar Block - Scars Block) ; 45 ; Nationals 2011 - Brazil ; 2043 ; Sun Sep 18 2011
+ST ; Standard 2010-2011 (Zendikar Block - Scars Block) ; 45 ; Magic-League Standard Master ; 2013 ; Sun Sep 11 2011
+ST ; Standard 2010-2011 (Zendikar Block - Scars Block) ; 45 ; Star City Games Open Atlanta  ; 2006 ; Sat Sep 10 2011
+ST ; Standard 2010-2011 (Zendikar Block - Scars Block) ; 45 ; Topdecker Win-a-Box 2 ; 2021 ; Sat Sep 10 2011
+ST ; Standard 2010-2011 (Zendikar Block - Scars Block) ; 45 ; MTGO Standard Daily (#2772753) ; 2027 ; Tue Sep 06 2011
+ST ; Standard 2010-2011 (Zendikar Block - Scars Block) ; 45 ; Grand Prix Pittsburg 2011 ; 1960 ; Sun Aug 28 2011
+ST ; Standard 2010-2011 (Zendikar Block - Scars Block) ; 45 ; Nationals 2011 - Croatia ; 1963 ; Sat Aug 27 2011
+ST ; Standard 2014-2015 (Theros Block - Tarkir Block) ; 114 ; PPTQ Savannah Lion Games ; 10477 ; Sun Sep 13 2015
+ST ; Standard 2014-2015 (Theros Block - Tarkir Block) ; 114 ; PTQ Madrid 2016 - Lamezia Terme ; 10478 ; Sun Sep 13 2015
+ST ; Standard 2014-2015 (Theros Block - Tarkir Block) ; 114 ; MTGO Standard Daily (#8762298) ; 10500 ; Sun Sep 13 2015
+ST ; Standard 2014-2015 (Theros Block - Tarkir Block) ; 114 ; MTGO Standard PTQ (#8762189) ; 10479 ; Sat Sep 12 2015
+ST ; Standard 2014-2015 (Theros Block - Tarkir Block) ; 114 ; SCG Standard Open Worcester ; 10488 ; Sat Sep 12 2015
+ST ; Standard 2014-2015 (Theros Block - Tarkir Block) ; 114 ; MTGO Standard Daily (#8762251) ; 10470 ; Fri Sep 11 2015
+ST ; Standard 2014-2015 (Theros Block - Tarkir Block) ; 114 ; MTGO Standard Daily (#8762231) ; 10465 ; Thu Sep 10 2015
+ST ; Standard 2014-2015 (Theros Block - Tarkir Block) ; 114 ; MTGO Standard Daily (#8762209) ; 10452 ; Wed Sep 09 2015
+ST ; Standard 2014-2015 (Theros Block - Tarkir Block) ; 114 ; MTGO Standard Daily (#8715008) ; 10451 ; Tue Sep 08 2015
+ST ; Standard 2014-2015 (Theros Block - Tarkir Block) ; 114 ; MTGO Standard Daily (#8714987) ; 10442 ; Mon Sep 07 2015
+LE ; All 2019 Decks ; 182 ; MTGO Legacy Challenge ; 24174 ; Mon Dec 30 2019
+LE ; All 2019 Decks ; 182 ; North Eternal Open @ Hareruya (Sapporo, Japan) ; 24180 ; Mon Dec 30 2019
+LE ; All 2019 Decks ; 182 ; Win a DCI  Force of Will Rumble @ Hareruya (Japan) ; 24183 ; Mon Dec 30 2019
+LE ; All 2019 Decks ; 182 ; 3rd Anniversary - Full power Team Event @ Hareruya (Osaka, Japan) ; 24246 ; Mon Dec 30 2019
+LE ; All 2019 Decks ; 182 ; Win Staple @ Collector Legion Gardena (CA) ; 24171 ; Sun Dec 29 2019
+LE ; All 2019 Decks ; 182 ; Pig League 2 Tappa#3 ; 24254 ; Sun Dec 29 2019
+LE ; All 2019 Decks ; 182 ; PGG 19-20 #4 - Oko, Ladro del Natale ; 24298 ; Sun Dec 29 2019
+LE ; All 2019 Decks ; 182 ; Team Constructed @ Shanghai (China) ; 24233 ; Sat Dec 28 2019
+LE ; All 2019 Decks ; 182 ; MTGO Legacy Preliminary ; 24146 ; Fri Dec 27 2019
+LE ; All 2019 Decks ; 182 ; MTGO Legacy Preliminary ; 24142 ; Wed Dec 25 2019
+ST ; Standard 2018-2019 (M19 to War of the Spark) ; 175 ; Super Cup Invitational - Et� 2019 @ MTGA ; 23229 ; Wed Sep 25 2019
+ST ; Standard 2018-2019 (M19 to War of the Spark) ; 175 ; MKM Series 2019 @ Barcelona (Spain) ; 23252 ; Wed Sep 25 2019
+ST ; Standard 2018-2019 (M19 to War of the Spark) ; 175 ; MTGO Standard League ; 23166 ; Mon Sep 23 2019
+ST ; Standard 2018-2019 (M19 to War of the Spark) ; 175 ; Shop Trial for The Finals 2019 @ Hareruya (Japan) ; 23197 ; Mon Sep 23 2019
+ST ; Standard 2018-2019 (M19 to War of the Spark) ; 175 ; God of Standard Trial @ Hareruya (Japan) ; 23198 ; Mon Sep 23 2019
+ST ; Standard 2018-2019 (M19 to War of the Spark) ; 175 ; Fandom Legends ; 23154 ; Sun Sep 22 2019
+ST ; Standard 2018-2019 (M19 to War of the Spark) ; 175 ; Win a Box @ Manafull (Caen, France) ; 23156 ; Sun Sep 22 2019
+ST ; Standard 2018-2019 (M19 to War of the Spark) ; 175 ; LatAm Magic Series  @ Mythos TCG Club ; 23164 ; Sun Sep 22 2019
+ST ; Standard 2018-2019 (M19 to War of the Spark) ; 175 ; LatAm Magic Series @ Nerdz ; 23165 ; Sun Sep 22 2019
+ST ; Standard 2018-2019 (M19 to War of the Spark) ; 175 ; The Gaming Stadium Open Series @ MTG Arena ; 23224 ; Sun Sep 22 2019
+ST ; Standard 2013-2014 (Return to Ravnica Block - Theros Block) ; 86 ; WMCQ#3 Singapore ; 8167 ; Sun Sep 14 2014
+ST ; Standard 2013-2014 (Return to Ravnica Block - Theros Block) ; 86 ; WMCQ - Astrakhan, Russia ; 8180 ; Sun Sep 14 2014
+ST ; Standard 2013-2014 (Return to Ravnica Block - Theros Block) ; 86 ; MTGO Standard MOCS (#7466497) ; 8185 ; Sun Sep 14 2014
+ST ; Standard 2013-2014 (Return to Ravnica Block - Theros Block) ; 86 ; StarCityGames.com Standard - Atlanta ; 8168 ; Sat Sep 13 2014
+ST ; Standard 2013-2014 (Return to Ravnica Block - Theros Block) ; 86 ; WMCQ#3 Roma, Italy ; 8204 ; Sat Sep 13 2014
+ST ; Standard 2013-2014 (Return to Ravnica Block - Theros Block) ; 86 ; MTGO Standard Daily (#7466540) ; 8159 ; Thu Sep 11 2014
+ST ; Standard 2013-2014 (Return to Ravnica Block - Theros Block) ; 86 ; MTGO Standard Daily (#7446486) ; 8158 ; Wed Sep 10 2014
+ST ; Standard 2013-2014 (Return to Ravnica Block - Theros Block) ; 86 ; MTGO Standard Champ Qual (#7446239) ; 8147 ; Mon Sep 08 2014
+ST ; Standard 2013-2014 (Return to Ravnica Block - Theros Block) ; 86 ; MTGO Standard Champ Qual (#7446231) ; 8128 ; Sun Sep 07 2014
+ST ; Standard 2013-2014 (Return to Ravnica Block - Theros Block) ; 86 ; MTGO Standard Daily (#7446414) ; 8129 ; Sun Sep 07 2014
+LE ; Last 2 Months ; 39 ; SSL1L - Discord @ Cockatrice ; 25612 ; Wed May 06 2020
+LE ; Last 2 Months ; 39 ; Weekly game @ Tongmeng (Shanghai, China) ; 25683 ; Tue May 05 2020
+LE ; Last 2 Months ; 39 ; MTGO Legacy Challenge ; 25543 ; Sun May 03 2020
+LE ; Last 2 Months ; 39 ; 2� Legacy na Quarentena @ Brasil ; 25665 ; Sun May 03 2020
+LE ; Last 2 Months ; 39 ; MTGO Legacy Preliminary ; 25472 ; Wed Apr 29 2020
+LE ; Last 2 Months ; 39 ; Fraido di Notte by Wooded Team ; 25473 ; Fri Apr 24 2020
+LE ; Last 2 Months ; 39 ; MTGO Legacy Preliminary ; 25355 ; Wed Apr 22 2020
+LE ; Last 2 Months ; 39 ; COVID Biquette LE6 @ OnLine ; 25462 ; Tue Apr 21 2020
+LE ; Last 2 Months ; 39 ; Cenagiardino 4 Tappa #2 Online ; 25471 ; Mon Apr 20 2020
+LE ; Last 2 Months ; 39 ; MTGO Legacy League ; 25298 ; Sat Apr 18 2020
+LE ; All 2016 decks ; 117 ; MTGO Competitive Legacy Constructed League ; 14378 ; Fri Dec 30 2016
+LE ; All 2016 decks ; 117 ; MTGO Competitive Legacy Constructed League ; 14353 ; Thu Dec 29 2016
+LE ; All 2016 decks ; 117 ; MTGO Competitive Legacy Constructed League ; 14346 ; Wed Dec 28 2016
+LE ; All 2016 decks ; 117 ; MTGO Competitive Legacy Constructed League ; 14339 ; Tue Dec 27 2016
+LE ; All 2016 decks ; 117 ; MTGO Competitive Legacy Constructed League ; 14344 ; Mon Dec 26 2016
+LE ; All 2016 decks ; 117 ; MTGO Competitive Legacy Constructed League ; 14330 ; Sun Dec 25 2016
+LE ; All 2016 decks ; 117 ; MTGO Competitive Legacy Constructed League ; 14340 ; Sat Dec 24 2016
+LE ; All 2016 decks ; 117 ; MTGO Competitive Legacy Constructed League ; 14323 ; Thu Dec 22 2016
+LE ; All 2016 decks ; 117 ; MTGO Competitive Legacy Constructed League ; 14316 ; Wed Dec 21 2016
+LE ; All 2016 decks ; 117 ; MTGO Competitive Legacy Constructed League ; 14310 ; Tue Dec 20 2016
+ST ; Standard 2019-2020 (M20 to Eldraine) ; 187 ; Secret Lair Ultimate Edition FNM @ Game Corps ; 25720 ; Sat May 16 2020
+ST ; Standard 2019-2020 (M20 to Eldraine) ; 187 ; FNM @ The Monkey Planet (Arena) ; 25722 ; Sat May 16 2020
+ST ; Standard 2019-2020 (M20 to Eldraine) ; 187 ; 500 Guaranteed Tournament @ Chimera Gaming (Arena) ; 25725 ; Sat May 16 2020
+ST ; Standard 2019-2020 (M20 to Eldraine) ; 187 ; Weekly Showdown @ The Lotus Market ; 25726 ; Sat May 16 2020
+ST ; Standard 2019-2020 (M20 to Eldraine) ; 187 ; Ikoria Box Tournament @ Adventures in Comics and Games ; 25708 ; Fri May 15 2020
+ST ; Standard 2019-2020 (M20 to Eldraine) ; 187 ; Weekly Trial @ The Mythic Society ; 25721 ; Fri May 15 2020
+ST ; Standard 2019-2020 (M20 to Eldraine) ; 187 ; FNM league week 2 @ Genesis Comics and Gaming (Arena) ; 25727 ; Fri May 15 2020
+ST ; Standard 2019-2020 (M20 to Eldraine) ; 187 ; Event @ Win Condition Games ; 25690 ; Thu May 14 2020
+ST ; Standard 2019-2020 (M20 to Eldraine) ; 187 ; MTG Arena For FUN ! @ Draagoons Hobby Shop ; 25705 ; Thu May 14 2020
+ST ; Standard 2019-2020 (M20 to Eldraine) ; 187 ; LATAM Magic Series Last Chance Qualifier @ Dima Game ; 25706 ; Thu May 14 2020
+ST ; Standard 2012-2013 (Innistrad Block - Return to Ravnica Block) ; 75 ; MTGO Standard Daily (#5998605) ; 5683 ; Tue Sep 24 2013
+ST ; Standard 2012-2013 (Innistrad Block - Return to Ravnica Block) ; 75 ; Magic-league - Trial Tournament ; 5684 ; Tue Sep 24 2013
+ST ; Standard 2012-2013 (Innistrad Block - Return to Ravnica Block) ; 75 ; MTGO Standard Daily (#5998573) ; 5674 ; Mon Sep 23 2013
+ST ; Standard 2012-2013 (Innistrad Block - Return to Ravnica Block) ; 75 ; MTGO Standard Premier (#5998512) ; 5667 ; Sun Sep 22 2013
+ST ; Standard 2012-2013 (Innistrad Block - Return to Ravnica Block) ; 75 ; MTGO Standard Daily (#5998540) ; 5682 ; Sun Sep 22 2013
+ST ; Standard 2012-2013 (Innistrad Block - Return to Ravnica Block) ; 75 ; Magic-league - Master Tournament ; 5685 ; Sun Sep 22 2013
+ST ; Standard 2012-2013 (Innistrad Block - Return to Ravnica Block) ; 75 ; MTGO Standard Premier (#5998485) ; 5666 ; Sat Sep 21 2013
+ST ; Standard 2012-2013 (Innistrad Block - Return to Ravnica Block) ; 75 ; MTGO Standard Premier (#5998466) ; 5680 ; Sat Sep 21 2013
+ST ; Standard 2012-2013 (Innistrad Block - Return to Ravnica Block) ; 75 ; MTGO Standard Daily (#5998423) ; 5681 ; Thu Sep 19 2013
+ST ; Standard 2012-2013 (Innistrad Block - Return to Ravnica Block) ; 75 ; Magic-league - Trial Tournament ; 5686 ; Thu Sep 19 2013
+MO ; Last 2 Weeks ; 54 ; MTGO Modern Preliminary ; 25700 ; Fri May 15 2020
+MO ; Last 2 Weeks ; 54 ; MTGO Modern League ; 25728 ; Fri May 15 2020
+MO ; Last 2 Weeks ; 54 ; MTGO Modern Preliminary ; 25701 ; Thu May 14 2020
+MO ; Last 2 Weeks ; 54 ; MTGO Modern League ; 25680 ; Tue May 12 2020
+MO ; Last 2 Weeks ; 54 ; SSLQ1M - Qualifier @ Discord ; 25682 ; Tue May 12 2020
+MO ; Last 2 Weeks ; 54 ; MTGO Modern Challenge ; 25668 ; Mon May 11 2020
+MO ; Last 2 Weeks ; 54 ; MTGO Modern Challenge ; 25658 ; Sun May 10 2020
+MO ; Last 2 Weeks ; 54 ; MTGO Modern Preliminary ; 25656 ; Sat May 09 2020
+MO ; Last 2 Weeks ; 54 ; MTGO Modern League ; 25591 ; Tue May 05 2020
+MO ; Last 2 Weeks ; 54 ; Modern FR 11 @ Cockatrice ; 25657 ; Tue May 05 2020
+ST ; Standard 2011-2012 (Scars Block - Innistrad Block) ; 74 ; MTGO Standard Daily (#4368314) ; 3392 ; Mon Sep 24 2012
+ST ; Standard 2011-2012 (Scars Block - Innistrad Block) ; 74 ; MTGO Standard Daily (#4368323) ; 3393 ; Mon Sep 24 2012
+ST ; Standard 2011-2012 (Scars Block - Innistrad Block) ; 74 ; MTGO Standard Daily (#4368327) ; 3394 ; Mon Sep 24 2012
+ST ; Standard 2011-2012 (Scars Block - Innistrad Block) ; 74 ; MTGO Standard Daily (#4368332) ; 3395 ; Mon Sep 24 2012
+ST ; Standard 2011-2012 (Scars Block - Innistrad Block) ; 74 ; MTGO Standard Daily (#4368338) ; 3396 ; Mon Sep 24 2012
+ST ; Standard 2011-2012 (Scars Block - Innistrad Block) ; 74 ; MTGO Standard Daily (#4368345) ; 3397 ; Mon Sep 24 2012
+ST ; Standard 2011-2012 (Scars Block - Innistrad Block) ; 74 ; MTGO Standard Daily (#4368350) ; 3398 ; Mon Sep 24 2012
+ST ; Standard 2011-2012 (Scars Block - Innistrad Block) ; 74 ; MTGO Standard Daily (#4368280) ; 3386 ; Sun Sep 23 2012
+ST ; Standard 2011-2012 (Scars Block - Innistrad Block) ; 74 ; MTGO Standard Daily (#4368283) ; 3387 ; Sun Sep 23 2012
+ST ; Standard 2011-2012 (Scars Block - Innistrad Block) ; 74 ; MTGO Standard Premier (#4368285) ; 3388 ; Sun Sep 23 2012
+LE ; All 2011 decks ; 61 ; N�rnberg Legacy ; 2437 ; Fri Dec 30 2011
+LE ; All 2011 decks ; 61 ; NataLegacY II Tundre ; 2400 ; Sat Dec 24 2011
+LE ; All 2011 decks ; 61 ; MTGDeals Players Appreciation tournament ; 2370 ; Sun Dec 18 2011
+LE ; All 2011 decks ; 61 ; Frikigordo 2011 ; 2402 ; Sun Dec 18 2011
+LE ; All 2011 decks ; 61 ; N�rnberg Legacy ; 2371 ; Sat Dec 17 2011
+LE ; All 2011 decks ; 61 ; Starcitygames Invitational Top 8 ; 2339 ; Sun Dec 11 2011
+LE ; All 2011 decks ; 61 ; Starcitygames Open Series: Charlotte ; 2340 ; Sun Dec 11 2011
+LE ; All 2011 decks ; 61 ; MLL#4 - Cardano al campo (VA) ; 2367 ; Sun Dec 11 2011
+LE ; All 2011 decks ; 61 ; Magic Bazaar League (Paris) ; 2368 ; Sun Dec 11 2011
+LE ; All 2011 decks ; 61 ; Star City Games Legacy St. Louis  ; 2304 ; Sun Dec 04 2011
+MO ; Last Major Events (2 Months) ; 189 ; MTGO Modern Showcase Challenge ; 25199 ; Sun Apr 12 2020
+MO ; Last Major Events (2 Months) ; 189 ; MTGO Modern Super Qualifier ; 25230 ; Sun Apr 12 2020
+MO ; Last Major Events (2 Months) ; 189 ; MTGO Modern Super Qualifier ; 25102 ; Tue Mar 31 2020
+MO ; Last Major Events (2 Months) ; 189 ; MTGO Modern Super Qualifier ; 25071 ; Sun Mar 29 2020
+MO ; Last Major Events (2 Months) ; 189 ; MTGO Modern Super Qualifier ; 25019 ; Sun Mar 22 2020
+ST ; Standard 2015-2016 (Tarkir Block - Battle for Zendikar Block) ; 133 ; MTGO Competitive Standard Constructed League ; 13589 ; Sat Sep 24 2016
+ST ; Standard 2015-2016 (Tarkir Block - Battle for Zendikar Block) ; 133 ; MTGO Competitive Standard Constructed League ; 13588 ; Fri Sep 23 2016
+ST ; Standard 2015-2016 (Tarkir Block - Battle for Zendikar Block) ; 133 ; MTGO Competitive Standard Constructed League ; 13582 ; Thu Sep 22 2016
+ST ; Standard 2015-2016 (Tarkir Block - Battle for Zendikar Block) ; 133 ; MTGO Competitive Standard Constructed League ; 13575 ; Wed Sep 21 2016
+ST ; Standard 2015-2016 (Tarkir Block - Battle for Zendikar Block) ; 133 ; MTGO Competitive Standard Constructed League ; 13565 ; Tue Sep 20 2016
+ST ; Standard 2015-2016 (Tarkir Block - Battle for Zendikar Block) ; 133 ; MTGO Competitive Standard Constructed League ; 13564 ; Mon Sep 19 2016
+ST ; Standard 2015-2016 (Tarkir Block - Battle for Zendikar Block) ; 133 ; MTGO Standard PTQ ; 13540 ; Sun Sep 18 2016
+ST ; Standard 2015-2016 (Tarkir Block - Battle for Zendikar Block) ; 133 ; MTGO Competitive Standard Constructed League ; 13515 ; Fri Sep 16 2016
+ST ; Standard 2015-2016 (Tarkir Block - Battle for Zendikar Block) ; 133 ; MTGO Competitive Standard Constructed League ; 13516 ; Wed Sep 14 2016
+ST ; Standard 2015-2016 (Tarkir Block - Battle for Zendikar Block) ; 133 ; MTGO Competitive Standard Constructed League ; 13486 ; Mon Sep 12 2016
+MO ; All 2013 Decks ; 77 ; MTGO Modern Daily (#6488868) ; 6398 ; Mon Dec 30 2013
+MO ; All 2013 Decks ; 77 ; MTGO Modern Daily (#6488765) ; 6360 ; Fri Dec 27 2013
+MO ; All 2013 Decks ; 77 ; MTGO Modern Daily (#6488759) ; 6355 ; Thu Dec 26 2013
+MO ; All 2013 Decks ; 77 ; MTGO Modern Daily (#6488735) ; 6354 ; Wed Dec 25 2013
+MO ; All 2013 Decks ; 77 ; MTGO Modern Daily (#6488693) ; 6350 ; Tue Dec 24 2013
+MO ; All 2013 Decks ; 77 ; MTGO Modern Daily (#6488687) ; 6335 ; Mon Dec 23 2013
+MO ; All 2013 Decks ; 77 ; MTGO Modern Daily (#6488629) ; 6322 ; Sun Dec 22 2013
+MO ; All 2013 Decks ; 77 ; Topdeck P.S.E. Modern ; 6329 ; Sun Dec 22 2013
+MO ; All 2013 Decks ; 77 ; MTGO Modern Daily (#6488619) ; 6321 ; Sat Dec 21 2013
+MO ; All 2013 Decks ; 77 ; MTGO Modern Daily (#6488563) ; 6320 ; Fri Dec 20 2013
+LE ; Live Tournaments Last 2 Months ; 72 ; Weekly game @ Tongmeng (Shanghai, China) ; 25683 ; Tue May 05 2020
+LE ; Live Tournaments Last 2 Months ; 72 ; 2� Legacy na Quarentena @ Brasil ; 25665 ; Sun May 03 2020
+LE ; Live Tournaments Last 2 Months ; 72 ; Fraido di Notte by Wooded Team ; 25473 ; Fri Apr 24 2020
+LE ; Live Tournaments Last 2 Months ; 72 ; COVID Biquette LE6 @ OnLine ; 25462 ; Tue Apr 21 2020
+LE ; Live Tournaments Last 2 Months ; 72 ; Cenagiardino 4 Tappa #2 Online ; 25471 ; Mon Apr 20 2020
+LE ; Live Tournaments Last 2 Months ; 72 ; Torneo Di Pasquale by Wooded Team ; 25249 ; Mon Apr 13 2020
+LE ; Live Tournaments Last 2 Months ; 72 ; Weekly @ Shanghai Tongmeng ; 25246 ; Sat Apr 11 2020
+LE ; Live Tournaments Last 2 Months ; 72 ; Weekend Event @ Mithril (Hong Kong) ; 25070 ; Sat Mar 28 2020
+LE ; Live Tournaments Last 2 Months ; 72 ; Legacy Tournament @ Mithril (Hong Kong) ; 25063 ; Wed Mar 25 2020
+LE ; Live Tournaments Last 2 Months ; 72 ; Weekly Legacy @ Basic Land (Hong Kong) ; 25013 ; Sat Mar 21 2020
+MO ; All 2016 Decks ; 118 ; MTGO Competitive Modern Constructed League ; 14397 ; Fri Dec 30 2016
+MO ; All 2016 Decks ; 118 ; MTGO Competitive Modern Constructed League ; 14355 ; Thu Dec 29 2016
+MO ; All 2016 Decks ; 118 ; GPT San Jose @ RAXX Hobbies Marikina ; 14341 ; Wed Dec 28 2016
+MO ; All 2016 Decks ; 118 ; MTGO Competitive Modern Constructed League ; 14350 ; Wed Dec 28 2016
+MO ; All 2016 Decks ; 118 ; MTGO Competitive Modern Constructed League ; 14335 ; Mon Dec 26 2016
+MO ; All 2016 Decks ; 118 ; MTGO Competitive Modern Constructed League ; 14331 ; Sun Dec 25 2016
+MO ; All 2016 Decks ; 118 ; MTGO Competitive Modern Constructed League ; 14324 ; Thu Dec 22 2016
+MO ; All 2016 Decks ; 118 ; MTGO Competitive Modern Constructed League ; 14317 ; Wed Dec 21 2016
+MO ; All 2016 Decks ; 118 ; MTGO Competitive Modern Constructed League ; 14308 ; Mon Dec 19 2016
+MO ; All 2016 Decks ; 118 ; MTGO Competitive Modern Constructed League ; 14291 ; Sun Dec 18 2016
+ST ; History - All Pro Tour ; 91 ; Mythic Championship VII Long Beach ; 23942 ; Fri Dec 06 2019
+ST ; History - All Pro Tour ; 91 ; Mythic Championship VI Richmond ; 23628 ; Fri Nov 08 2019
+ST ; History - All Pro Tour ; 91 ; Mythic Championship VII Qualifier Weekend ; 23525 ; Sun Oct 27 2019
+ST ; History - All Pro Tour ; 91 ; Mythic Championship V ; 23371 ; Fri Oct 18 2019
+ST ; History - All Pro Tour ; 91 ; Mythic Championship III Las Vegas ; 22299 ; Wed Jun 19 2019
+ST ; History - All Pro Tour ; 91 ; Pro Tour Cleveland (Mythic Championship I) ; 21169 ; Fri Feb 22 2019
+ST ; History - All Pro Tour ; 91 ; Pro Tour Guilds of Ravnica (Atlanta) ; 20483 ; Fri Nov 09 2018
+ST ; History - All Pro Tour ; 91 ; Standard - Pro Tour 25th (Minneapolis) ; 19773 ; Fri Aug 03 2018
+ST ; History - All Pro Tour ; 91 ; Pro Tour Dominaria (Richmond) ; 19359 ; Fri Jun 01 2018
+ST ; History - All Pro Tour ; 91 ; Pro Tour Ixalan (Albuquerque) ; 17385 ; Sat Nov 04 2017
+MO ; All 2019 Decks ; 183 ; Win two DCI Swords Rumble @ Hareruya (Japan) ; 24169 ; Mon Dec 30 2019
+MO ; All 2019 Decks ; 183 ; 3rd Anniversary - Full power Team Event @ Hareruya (Osaka, Japan) ; 24247 ; Mon Dec 30 2019
+MO ; All 2019 Decks ; 183 ; MTGO Modern MOCS ; 24175 ; Sun Dec 29 2019
+MO ; All 2019 Decks ; 183 ; North Eternal Open @ Hareruya (Sapporo, Japan) ; 24179 ; Sun Dec 29 2019
+MO ; All 2019 Decks ; 183 ; Star City Games IQ @ Brooklyn ; 24224 ; Sun Dec 29 2019
+MO ; All 2019 Decks ; 183 ; Star City Games IQ @ Pittston ; 24229 ; Sun Dec 29 2019
+MO ; All 2019 Decks ; 183 ; KSVZ Championship 2019 @ KSV Zurich ; 24232 ; Sun Dec 29 2019
+MO ; All 2019 Decks ; 183 ; Star City Games IQ @ Frankenmuth ; 24158 ; Sat Dec 28 2019
+MO ; All 2019 Decks ; 183 ; Star City Games IQ @ Roanoke ; 24159 ; Sat Dec 28 2019
+MO ; All 2019 Decks ; 183 ; MTGO Modern MOCS #12052869 ; 24202 ; Sat Dec 28 2019
+MO ; All 2014 Decks ; 79 ; MTGO Modern Daily (#7816001) ; 8853 ; Tue Dec 30 2014
+MO ; All 2014 Decks ; 79 ; MTGO Modern Daily (#7815980) ; 8823 ; Mon Dec 29 2014
+MO ; All 2014 Decks ; 79 ; MTGO Modern Daily (#7815937) ; 8818 ; Sun Dec 28 2014
+MO ; All 2014 Decks ; 79 ; PPTQ Magic Store (Forli, Italy) ; 8874 ; Sun Dec 28 2014
+MO ; All 2014 Decks ; 79 ; Evomodern 2014 ; 8878 ; Sun Dec 28 2014
+MO ; All 2014 Decks ; 79 ; Happymtg.com Modern Cup ; 8915 ; Sun Dec 28 2014
+MO ; All 2014 Decks ; 79 ; PPTQ @ Games Academy (Pisa, Italy) ; 8921 ; Sun Dec 28 2014
+MO ; All 2014 Decks ; 79 ; Hareruya Modan-hai (27/12/14) ; 8842 ; Sat Dec 27 2014
+MO ; All 2014 Decks ; 79 ; MTGO Modern Daily (#7815857) ; 8811 ; Fri Dec 26 2014
+MO ; All 2014 Decks ; 79 ; MTGO Modern Daily (#7815834) ; 8807 ; Thu Dec 25 2014
+LE ; All 2014 decks ; 81 ; MTGO Legacy Daily (#7816014) ; 8829 ; Tue Dec 30 2014
+LE ; All 2014 decks ; 81 ; MTGO Legacy Daily (#7815974) ; 8817 ; Mon Dec 29 2014
+LE ; All 2014 decks ; 81 ; MTGO Legacy Daily (#7815938) ; 8816 ; Sun Dec 28 2014
+LE ; All 2014 decks ; 81 ; MTGTA Year-end Legacy Tournament (Guangzhou, China) ; 8862 ; Sun Dec 28 2014
+LE ; All 2014 decks ; 81 ; Hareruya regashī-hai ; 8840 ; Sat Dec 27 2014
+LE ; All 2014 decks ; 81 ; MTGO Legacy Daily (#7815848) ; 8810 ; Fri Dec 26 2014
+LE ; All 2014 decks ; 81 ; MTGO Legacy Daily (#7815840) ; 8802 ; Thu Dec 25 2014
+LE ; All 2014 decks ; 81 ; MTGO Legacy Daily (#7815812) ; 8801 ; Wed Dec 24 2014
+LE ; All 2014 decks ; 81 ; MTGO Legacy Daily (#7815792) ; 8799 ; Tue Dec 23 2014
+LE ; All 2014 decks ; 81 ; Known Magician's Clan - Invitational 4th ; 8839 ; Tue Dec 23 2014
+LE ; All 2012 decks ; 6 ; End of the Year - Hanau ; 4112 ; Sat Dec 29 2012
+LE ; All 2012 decks ; 6 ; Liga de Levante de Legacy 1x03 ; 4097 ; Sun Dec 23 2012
+LE ; All 2012 decks ; 6 ; Ferrara - MMT#1 ; 4098 ; Sun Dec 23 2012
+LE ; All 2012 decks ; 6 ; Starcitygames Open Series: Los Angeles ; 3956 ; Sun Dec 16 2012
+LE ; All 2012 decks ; 6 ; Starcitygames Invitational: Los Angeles ; 3957 ; Sun Dec 16 2012
+LE ; All 2012 decks ; 6 ; Starcitygames Open Series: Las Vegas ; 3941 ; Sun Dec 09 2012
+LE ; All 2012 decks ; 6 ; Starcitygames Open Series: Baltimore ; 3879 ; Sun Dec 02 2012
+LE ; All 2012 decks ; 6 ; Starcitygames Open Series: Seattle ; 3826 ; Sun Nov 18 2012
+LE ; All 2012 decks ; 6 ; LWL#0 - Savona ; 3874 ; Sun Nov 18 2012
+LE ; All 2012 decks ; 6 ; LCL 2012 Noviembre ; 3875 ; Sat Nov 17 2012
+MO ; All 2017 Decks ; 142 ; December Titanium Challenge ; 18008 ; Sat Dec 30 2017
+MO ; All 2017 Decks ; 142 ; MTGO Competitive Modern League ; 18010 ; Sat Dec 30 2017
+MO ; All 2017 Decks ; 142 ; MTGO Competitive Modern League ; 18009 ; Fri Dec 29 2017
+MO ; All 2017 Decks ; 142 ; MTGO Competitive Modern League ; 17986 ; Thu Dec 28 2017
+MO ; All 2017 Decks ; 142 ; MTGO Competitive Modern League ; 17964 ; Wed Dec 27 2017
+MO ; All 2017 Decks ; 142 ; MTGO Competitive Modern League ; 17985 ; Tue Dec 26 2017
+MO ; All 2017 Decks ; 142 ; MTGO Competitive Modern League ; 17954 ; Mon Dec 25 2017
+MO ; All 2017 Decks ; 142 ; MTGO Modern Challenge ; 17950 ; Sun Dec 24 2017
+MO ; All 2017 Decks ; 142 ; MTGO Competitive Modern League ; 17938 ; Thu Dec 21 2017
+MO ; All 2017 Decks ; 142 ; MTGO Competitive Modern League ; 17917 ; Wed Dec 20 2017
+MO ; All 2015 Decks ; 101 ; MTGO Modern Daily ; 11205 ; Wed Dec 30 2015
+MO ; All 2015 Decks ; 101 ; MTGO Modern Constructed League ; 11241 ; Wed Dec 30 2015
+MO ; All 2015 Decks ; 101 ; MTGO Modern Daily ; 11200 ; Tue Dec 29 2015
+MO ; All 2015 Decks ; 101 ; MTGO Modern Constructed League ; 11201 ; Tue Dec 29 2015
+MO ; All 2015 Decks ; 101 ; MTGO Modern Daily ; 11198 ; Mon Dec 28 2015
+MO ; All 2015 Decks ; 101 ; MTGO Modern Constructed League ; 11199 ; Mon Dec 28 2015
+MO ; All 2015 Decks ; 101 ; MTGO Modern Daily ; 11189 ; Sun Dec 27 2015
+MO ; All 2015 Decks ; 101 ; MTGO Modern Constructed League ; 11193 ; Sun Dec 27 2015
+MO ; All 2015 Decks ; 101 ; FFH Holiday Series ; 11194 ; Sun Dec 27 2015
+MO ; All 2015 Decks ; 101 ; Jahresendevent in Bottrop ; 11220 ; Sun Dec 27 2015
+LE ; Major Events decks (50+ players) ; 27 ; MTGO Legacy Challenge ; 25543 ; Sun May 03 2020
+LE ; Major Events decks (50+ players) ; 27 ; MTGO Legacy Preliminary ; 25472 ; Wed Apr 29 2020
+LE ; Major Events decks (50+ players) ; 27 ; MTGO Legacy Preliminary ; 25355 ; Wed Apr 22 2020
+LE ; Major Events decks (50+ players) ; 27 ; MTGO Legacy Challenge ; 25233 ; Tue Apr 14 2020
+LE ; Major Events decks (50+ players) ; 27 ; 1st KMC Online on Magic Online ; 25248 ; Sat Apr 11 2020
+LE ; Major Events decks (50+ players) ; 27 ; MTGO Legacy Preliminary ; 25158 ; Wed Apr 08 2020
+LE ; Major Events decks (50+ players) ; 27 ; MTGO Legacy Preliminary ; 25144 ; Tue Apr 07 2020
+LE ; Major Events decks (50+ players) ; 27 ; MTGO Legacy Challenge ; 25145 ; Tue Apr 07 2020
+LE ; Major Events decks (50+ players) ; 27 ; MTGO Legacy Preliminary ; 25119 ; Sat Apr 04 2020
+LE ; Major Events decks (50+ players) ; 27 ; MTGO Legacy Preliminary ; 25018 ; Sat Mar 21 2020
+LE ; All 2020 Decks ; 199 ; SSL1L - Discord @ Cockatrice ; 25612 ; Wed May 06 2020
+LE ; All 2020 Decks ; 199 ; Weekly game @ Tongmeng (Shanghai, China) ; 25683 ; Tue May 05 2020
+LE ; All 2020 Decks ; 199 ; MTGO Legacy Challenge ; 25543 ; Sun May 03 2020
+LE ; All 2020 Decks ; 199 ; 2� Legacy na Quarentena @ Brasil ; 25665 ; Sun May 03 2020
+LE ; All 2020 Decks ; 199 ; MTGO Legacy Preliminary ; 25472 ; Wed Apr 29 2020
+LE ; All 2020 Decks ; 199 ; Fraido di Notte by Wooded Team ; 25473 ; Fri Apr 24 2020
+LE ; All 2020 Decks ; 199 ; MTGO Legacy Preliminary ; 25355 ; Wed Apr 22 2020
+LE ; All 2020 Decks ; 199 ; COVID Biquette LE6 @ OnLine ; 25462 ; Tue Apr 21 2020
+LE ; All 2020 Decks ; 199 ; Cenagiardino 4 Tappa #2 Online ; 25471 ; Mon Apr 20 2020
+LE ; All 2020 Decks ; 199 ; MTGO Legacy League ; 25298 ; Sat Apr 18 2020
+LE ; All 2015 decks ; 100 ; MTGO Legacy Daily ; 11204 ; Wed Dec 30 2015
+LE ; All 2015 decks ; 100 ; MTGO Legacy Daily ; 11233 ; Tue Dec 29 2015
+LE ; All 2015 decks ; 100 ; MTGO Legacy Daily ; 11197 ; Mon Dec 28 2015
+LE ; All 2015 decks ; 100 ; MTGO Legacy Daily ; 11188 ; Sun Dec 27 2015
+LE ; All 2015 decks ; 100 ; MTGO Legacy Daily ; 11175 ; Thu Dec 24 2015
+LE ; All 2015 decks ; 100 ; MTGO Legacy Daily ; 11164 ; Wed Dec 23 2015
+LE ; All 2015 decks ; 100 ; MTGO Legacy Daily (#9149510) ; 11160 ; Mon Dec 21 2015
+LE ; All 2015 decks ; 100 ; MTGO Legacy Daily (#9149479) ; 11152 ; Sun Dec 20 2015
+LE ; All 2015 decks ; 100 ; MTGO Legacy Daily (#9149447) ; 11146 ; Sat Dec 19 2015
+LE ; All 2015 decks ; 100 ; MKM Series Madrid - Legacy Main Event ; 11158 ; Sat Dec 19 2015
+LE ; All 2013 decks ; 80 ; The Last Sun 2013 ; 6531 ; Sun Dec 29 2013
+LE ; All 2013 decks ; 80 ; Belgian Legacy Cup FINALS 2013 @ Outpost ; 6384 ; Sun Dec 22 2013
+LE ; All 2013 decks ; 80 ; Starcitygames Invitational: Las Vegas ; 6290 ; Sun Dec 15 2013
+LE ; All 2013 decks ; 80 ; Starcitygames Open Series: Las Vegas ; 6291 ; Sun Dec 15 2013
+LE ; All 2013 decks ; 80 ; Olympus#1 - Raffa di Puegnago (BS) ; 6293 ; Sun Dec 15 2013
+LE ; All 2013 decks ; 80 ; Magic in the Kitchen #7 @ Magdeburg ; 6304 ; Sun Dec 15 2013
+LE ; All 2013 decks ; 80 ; T1,5T#4 - Scandicci (FI) ; 6312 ; Sun Dec 15 2013
+LE ; All 2013 decks ; 80 ; Legacy Kaiserslautern ; 6339 ; Sun Dec 15 2013
+LE ; All 2013 decks ; 80 ; LCL 2013 - Gran Final ; 6334 ; Sat Dec 14 2013
+LE ; All 2013 decks ; 80 ; TOPdeck Moscow Legacy OPEN 2013 ; 6340 ; Sat Dec 14 2013
+MO ; All 2011 Decks ; 78 ; FNM - Magic Time - Lugo(ra) ; 2401 ; Fri Dec 30 2011
+MO ; All 2011 Decks ; 78 ; MTGO Modern Daily (#3193270) ; 2408 ; Fri Dec 30 2011
+MO ; All 2011 Decks ; 78 ; MTGO Modern Daily (#3193277) ; 2409 ; Fri Dec 30 2011
+MO ; All 2011 Decks ; 78 ; MTGO Modern Daily (#3193284) ; 2410 ; Fri Dec 30 2011
+MO ; All 2011 Decks ; 78 ; MTGO Modern Daily (#3193293) ; 2411 ; Fri Dec 30 2011
+MO ; All 2011 Decks ; 78 ; MTGO Modern Daily (#3193307) ; 2412 ; Fri Dec 30 2011
+MO ; All 2011 Decks ; 78 ; MTGO Modern Daily (#3193227) ; 2404 ; Thu Dec 29 2011
+MO ; All 2011 Decks ; 78 ; MTGO Modern Daily (#3193235) ; 2405 ; Thu Dec 29 2011
+MO ; All 2011 Decks ; 78 ; MTGO Modern Daily (#3193250) ; 2406 ; Thu Dec 29 2011
+MO ; All 2011 Decks ; 78 ; MTGO Modern Daily (#3193257) ; 2407 ; Thu Dec 29 2011
+MO ; All 2012 Decks ; 76 ; MTGO Modern Daily (#4776285) ; 4087 ; Sun Dec 30 2012
+MO ; All 2012 Decks ; 76 ; PTQ San Diego'13 (Hanau, Germany) ; 4095 ; Sun Dec 30 2012
+MO ; All 2012 Decks ; 76 ; MTGO Modern Daily (#4776257) ; 4086 ; Sat Dec 29 2012
+MO ; All 2012 Decks ; 76 ; The Ice Gathering V (GPT Londres) ; 4124 ; Sat Dec 29 2012
+MO ; All 2012 Decks ; 76 ; PTQ San Diego'13 (Philadelphia, Pennsylvania) ; 4173 ; Sat Dec 29 2012
+MO ; All 2012 Decks ; 76 ; MTGO Modern Daily (#4776206) ; 4081 ; Fri Dec 28 2012
+MO ; All 2012 Decks ; 76 ; MTGO Modern Daily (#4776179) ; 4037 ; Thu Dec 27 2012
+MO ; All 2012 Decks ; 76 ; MTGO Modern Daily (#4776125) ; 4016 ; Wed Dec 26 2012
+MO ; All 2012 Decks ; 76 ; MTGO Modern Daily (#4776090) ; 3981 ; Tue Dec 25 2012
+MO ; All 2012 Decks ; 76 ; MTGO Modern Daily (#4776090) ; 3982 ; Tue Dec 25 2012
+ST ; History - All Worlds ; 97 ; World Championship XXVI Honolulu ; 24631 ; Wed Feb 12 2020
+ST ; History - All Worlds ; 97 ; 2018 World Magic Cup ; 20758 ; Sun Dec 16 2018
+ST ; History - All Worlds ; 97 ; Worlds 2018 (Las Vegas) ; 20145 ; Sun Sep 23 2018
+ST ; History - All Worlds ; 97 ; 2017 World Magic Cup ; 17741 ; Sun Dec 03 2017
+ST ; History - All Worlds ; 97 ; Worlds 2017 ; 17119 ; Sat Oct 07 2017
+ST ; History - All Worlds ; 97 ; 2016 World Championship ; 13406 ; Fri Sep 02 2016
+ST ; History - All Worlds ; 97 ; World Magic Cup 2015 ; 11093 ; Sun Dec 13 2015
+ST ; History - All Worlds ; 97 ; 2015 World Championship ; 10387 ; Sun Aug 30 2015
+ST ; History - All Worlds ; 97 ; 2014 World Magic Cup ; 8689 ; Sun Dec 07 2014
+ST ; History - All Worlds ; 97 ; 2014 World Championship - Day 2 ; 8671 ; Wed Dec 03 2014
+MO ; Last 2 Months ; 51 ; MTGO Modern Preliminary ; 25700 ; Fri May 15 2020
+MO ; Last 2 Months ; 51 ; MTGO Modern League ; 25728 ; Fri May 15 2020
+MO ; Last 2 Months ; 51 ; MTGO Modern Preliminary ; 25701 ; Thu May 14 2020
+MO ; Last 2 Months ; 51 ; MTGO Modern League ; 25680 ; Tue May 12 2020
+MO ; Last 2 Months ; 51 ; SSLQ1M - Qualifier @ Discord ; 25682 ; Tue May 12 2020
+MO ; Last 2 Months ; 51 ; MTGO Modern Challenge ; 25668 ; Mon May 11 2020
+MO ; Last 2 Months ; 51 ; MTGO Modern Challenge ; 25658 ; Sun May 10 2020
+MO ; Last 2 Months ; 51 ; MTGO Modern Preliminary ; 25656 ; Sat May 09 2020
+MO ; Last 2 Months ; 51 ; MTGO Modern League ; 25591 ; Tue May 05 2020
+MO ; Last 2 Months ; 51 ; Modern FR 11 @ Cockatrice ; 25657 ; Tue May 05 2020
+MO ; All 2018 Decks ; 163 ; MTGO Modern Challenge ; 20843 ; Sun Dec 30 2018
+MO ; All 2018 Decks ; 163 ; Shizuoka Store Modern @ Shizuoka, Japan ; 21565 ; Sun Dec 30 2018
+MO ; All 2018 Decks ; 163 ; MagicCorp Classic @ MagicCorporation ; 20841 ; Sat Dec 29 2018
+MO ; All 2018 Decks ; 163 ; MTGO Competitive Modern League ; 20837 ; Fri Dec 28 2018
+MO ; All 2018 Decks ; 163 ; Modern 1Kinda @ Mox Boarding House (Seattle) ; 20915 ; Fri Dec 28 2018
+MO ; All 2018 Decks ; 163 ; MTGO Competitive Modern League ; 20828 ; Tue Dec 25 2018
+MO ; All 2018 Decks ; 163 ; The Last Sun 2018 ; 20836 ; Mon Dec 24 2018
+MO ; All 2018 Decks ; 163 ; MTGO Modern Challenge ; 20816 ; Sun Dec 23 2018
+MO ; All 2018 Decks ; 163 ; Win box topper @ carta'jeu Lyon, france ; 20835 ; Sun Dec 23 2018
+MO ; All 2018 Decks ; 163 ; Big Modern Defcon 2.0 ; 20850 ; Sun Dec 23 2018
+LE ; All 2018 Decks ; 164 ; MTGO Competitive Legacy League ; 20833 ; Sat Dec 29 2018
+LE ; All 2018 Decks ; 164 ; MTGO Legacy Challenge ; 20819 ; Mon Dec 24 2018
+LE ; All 2018 Decks ; 164 ; The Last Sun 2018 ; 20832 ; Mon Dec 24 2018
+LE ; All 2018 Decks ; 164 ; Legacy Staples @ Collector Legion ; 20818 ; Sat Dec 22 2018
+LE ; All 2018 Decks ; 164 ; MTGO Competitive Legacy League ; 20822 ; Sat Dec 22 2018
+LE ; All 2018 Decks ; 164 ; Luga Winterfrost ; 20829 ; Fri Dec 21 2018
+LE ; All 2018 Decks ; 164 ; MTGO Legacy Challenge ; 20786 ; Mon Dec 17 2018
+LE ; All 2018 Decks ; 164 ; LML Series @ Grimorium, Belo Horizonte ; 20766 ; Sun Dec 16 2018
+LE ; All 2018 Decks ; 164 ; Underdog Legacy League 2018#10 @ Game Over, Terni ; 20767 ; Sun Dec 16 2018
+LE ; All 2018 Decks ; 164 ; Legacy 3K @ ChannelFireball Game Center ; 20802 ; Sun Dec 16 2018
+LE ; All decks ; 16 ; SSL1L - Discord @ Cockatrice ; 25612 ; Wed May 06 2020
+LE ; All decks ; 16 ; Weekly game @ Tongmeng (Shanghai, China) ; 25683 ; Tue May 05 2020
+LE ; All decks ; 16 ; MTGO Legacy Challenge ; 25543 ; Sun May 03 2020
+LE ; All decks ; 16 ; 2� Legacy na Quarentena @ Brasil ; 25665 ; Sun May 03 2020
+LE ; All decks ; 16 ; MTGO Legacy Preliminary ; 25472 ; Wed Apr 29 2020
+LE ; All decks ; 16 ; Fraido di Notte by Wooded Team ; 25473 ; Fri Apr 24 2020
+LE ; All decks ; 16 ; MTGO Legacy Preliminary ; 25355 ; Wed Apr 22 2020
+LE ; All decks ; 16 ; COVID Biquette LE6 @ OnLine ; 25462 ; Tue Apr 21 2020
+LE ; All decks ; 16 ; Cenagiardino 4 Tappa #2 Online ; 25471 ; Mon Apr 20 2020
+LE ; All decks ; 16 ; MTGO Legacy League ; 25298 ; Sat Apr 18 2020
+LE ; All 2017 decks ; 143 ; Team Budget's Christmas Legacy (Philippines) ; 17968 ; Sat Dec 30 2017
+LE ; All 2017 decks ; 143 ; HK year end legacy part 2 ; 17982 ; Sat Dec 30 2017
+LE ; All 2017 decks ; 143 ; Paragon City Games 1K Symposium ; 17984 ; Sat Dec 30 2017
+LE ; All 2017 decks ; 143 ; General Games Legacy ; 18003 ; Sat Dec 30 2017
+LE ; All 2017 decks ; 143 ; MTGO Competitive Legacy League ; 18007 ; Sat Dec 30 2017
+LE ; All 2017 decks ; 143 ; MTGO Competitive Legacy League ; 18006 ; Fri Dec 29 2017
+LE ; All 2017 decks ; 143 ; MTGO Competitive Legacy League ; 18146 ; Thu Dec 28 2017
+LE ; All 2017 decks ; 143 ; TAV Moxing Day Legacy ; 17955 ; Wed Dec 27 2017
+LE ; All 2017 decks ; 143 ; MTGO Competitive Legacy League ; 17969 ; Wed Dec 27 2017
+LE ; All 2017 decks ; 143 ; MTGO Competitive Legacy League ; 17956 ; Tue Dec 26 2017
+MO ; All 2020 Decks ; 200 ; MTGO Modern Preliminary ; 25700 ; Fri May 15 2020
+MO ; All 2020 Decks ; 200 ; MTGO Modern League ; 25728 ; Fri May 15 2020
+MO ; All 2020 Decks ; 200 ; MTGO Modern Preliminary ; 25701 ; Thu May 14 2020
+MO ; All 2020 Decks ; 200 ; MTGO Modern League ; 25680 ; Tue May 12 2020
+MO ; All 2020 Decks ; 200 ; SSLQ1M - Qualifier @ Discord ; 25682 ; Tue May 12 2020
+MO ; All 2020 Decks ; 200 ; MTGO Modern Challenge ; 25668 ; Mon May 11 2020
+MO ; All 2020 Decks ; 200 ; MTGO Modern Challenge ; 25658 ; Sun May 10 2020
+MO ; All 2020 Decks ; 200 ; MTGO Modern Preliminary ; 25656 ; Sat May 09 2020
+MO ; All 2020 Decks ; 200 ; MTGO Modern League ; 25591 ; Tue May 05 2020
+MO ; All 2020 Decks ; 200 ; Modern FR 11 @ Cockatrice ; 25657 ; Tue May 05 2020
+MO ; All Modern Decks ; 44 ; MTGO Modern Preliminary ; 25700 ; Fri May 15 2020
+MO ; All Modern Decks ; 44 ; MTGO Modern League ; 25728 ; Fri May 15 2020
+MO ; All Modern Decks ; 44 ; MTGO Modern Preliminary ; 25701 ; Thu May 14 2020
+MO ; All Modern Decks ; 44 ; MTGO Modern League ; 25680 ; Tue May 12 2020
+MO ; All Modern Decks ; 44 ; SSLQ1M - Qualifier @ Discord ; 25682 ; Tue May 12 2020
+MO ; All Modern Decks ; 44 ; MTGO Modern Challenge ; 25668 ; Mon May 11 2020
+MO ; All Modern Decks ; 44 ; MTGO Modern Challenge ; 25658 ; Sun May 10 2020
+MO ; All Modern Decks ; 44 ; MTGO Modern Preliminary ; 25656 ; Sat May 09 2020
+MO ; All Modern Decks ; 44 ; MTGO Modern League ; 25591 ; Tue May 05 2020
+MO ; All Modern Decks ; 44 ; Modern FR 11 @ Cockatrice ; 25657 ; Tue May 05 2020
+ST ; All Standard decks ; 58 ; Secret Lair Ultimate Edition FNM @ Game Corps ; 25720 ; Sat May 16 2020
+ST ; All Standard decks ; 58 ; FNM @ The Monkey Planet (Arena) ; 25722 ; Sat May 16 2020
+ST ; All Standard decks ; 58 ; 500 Guaranteed Tournament @ Chimera Gaming (Arena) ; 25725 ; Sat May 16 2020
+ST ; All Standard decks ; 58 ; Weekly Showdown @ The Lotus Market ; 25726 ; Sat May 16 2020
+ST ; All Standard decks ; 58 ; Ikoria Box Tournament @ Adventures in Comics and Games ; 25708 ; Fri May 15 2020
+ST ; All Standard decks ; 58 ; Weekly Trial @ The Mythic Society ; 25721 ; Fri May 15 2020
+ST ; All Standard decks ; 58 ; FNM league week 2 @ Genesis Comics and Gaming (Arena) ; 25727 ; Fri May 15 2020
+ST ; All Standard decks ; 58 ; Event @ Win Condition Games ; 25690 ; Thu May 14 2020
+ST ; All Standard decks ; 58 ; MTG Arena For FUN ! @ Draagoons Hobby Shop ; 25705 ; Thu May 14 2020
+ST ; All Standard decks ; 58 ; LATAM Magic Series Last Chance Qualifier @ Dima Game ; 25706 ; Thu May 14 2020
+MO ; History - All PT & GP ; 92 ; Grand Prix Austin ; 24291 ; Sat Jan 11 2020
+MO ; History - All PT & GP ; 92 ; Grand Prix Las Vegas 2019 ; 22894 ; Sat Aug 24 2019
+MO ; History - All PT & GP ; 92 ; Grand Prix Birmingham 2019 ; 22824 ; Sun Aug 18 2019
+MO ; History - All PT & GP ; 92 ; Grand Prix Minneapolis ; 22752 ; Sat Aug 10 2019
+MO ; History - All PT & GP ; 92 ; Grand Prix Dallas ; 22388 ; Sat Jun 29 2019
+MO ; History - All PT & GP ; 92 ; Pro Tour London (Mythic Championship II) ; 21752 ; Fri Apr 26 2019
+MO ; History - All PT & GP ; 92 ; Grand Prix Yokohama ; 21719 ; Sat Apr 20 2019
+MO ; History - All PT & GP ; 92 ; Grand Prix Sao Paulo 2019 ; 21651 ; Sat Apr 13 2019
+MO ; History - All PT & GP ; 92 ; Grand Prix Bilbao ; 21377 ; Sat Mar 16 2019
+MO ; History - All PT & GP ; 92 ; Grand Prix Tampa ; 21378 ; Sat Mar 16 2019
